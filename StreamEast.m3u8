@@ -1,20 +1,20 @@
-# Updated at 2025-08-30T06:34:58.033206Z
+# Updated at 2025-08-30T07:23:28.225983Z
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamEast - F1",F1 Dutch GP Qualifying Live Stream
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamEast - F1",F1 Dutch GP Race Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/hbfkazbkaznc49.m3u8?st=q7ciCvx8buz1RAXw4Dty8yojNSPaFWt-kMF-ud-3Pnw&e=1756546500
+https://edgestreams.pro/hls/hbfkazbkaznc49.m3u8?st=RC8MU0I0wYCJ5iWPW17kbpSsnBylx-gqxIGVy8kzwKQ&e=1756549411
 
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamEast - F1",F1 Dutch GP Free Practice 3 Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/hbfkazbkaznc49.m3u8?st=Ax1zbSFk8D6ZYZbXxx7ot44R4bjl7YKyWvDhuzyJ7RA&e=1756546507
+https://edgestreams.pro/hls/hbfkazbkaznc49.m3u8?st=91dX8B5DxUlMJLRh2gWAr78qGeCVAYt7hejoGBwT9eY&e=1756549418
 
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamEast - F1",F1 Dutch GP Race Live Stream
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamEast - F1",F1 Dutch GP Qualifying Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=fBec_IGNVEB9RDq4koc8PZWyA9bw4bci3lR5XNx-DyM&e=1756546529
+https://edgestreams.pro/hls/hbfkazbkaznc49.m3u8?st=oij1Nafgxu3os4IF3Ji8fddC5GyF062NuM3mKslaz6Q&e=1756549447
 
