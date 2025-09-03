@@ -1,110 +1,128 @@
-# Updated at 2025-09-03T16:32:46.832855Z
+# Updated at 2025-09-03T17:24:06.785431Z
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamEast - F1",F1 Italian GP Qualifying Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/hbfkazbkaznc49.m3u8?st=Z9AR2YHMJqZOUTmnWW201_NXhLs6u47L7AZnQSDRZSU&e=1756927969
-
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true" group-title="StreamEast - Baseball",Seattle Mariners vs. Tampa Bay Rays Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=UPLpm8p9u3NfMAgK4Yia1EZuy0qYfF2xejpK-Ql2J3w&e=1756927983
-
-#EXTINF:-1 tvg-id="Boxing.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/boxing.png?raw=true" group-title="StreamEast - Boxing",Canelo Alvarez vs. Terence Crawford Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/hbfhzbfzak46.m3u8?st=-R1g5SsXidHchvekIwrVhW7f7oh7ntsTjLnqR8UhsAk&e=1756927989
-
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true" group-title="StreamEast - Baseball",Atlanta Braves vs. Chicago Cubs Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/ijfnakfidch22.m3u8?st=N2xMDVMEapSuXfIotF47OTyKjnloJPJEh--ALuIRWn0&e=1756928001
-
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true" group-title="StreamEast - Baseball",Baltimore Orioles vs. San Diego Padres Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/Czajafjihafch18.m3u8?st=Us2TKD7x4Gblbf9L2U4RxIelGcaaS8ElJhip7uEdjpw&e=1756928023
-
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true" group-title="StreamEast - Baseball",Texas Rangers vs. Arizona Diamondbacks Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?st=odlyMRr6LspCgd13owrSobfCSyQW-OXdNNVuxPi34xs&e=1756928028
-
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true" group-title="StreamEast - Baseball",Chicago White Sox vs. Minnesota Twins Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/jnzkdzjfanch23.m3u8?st=u9eyGKNIg0Zku5Zyi4A8oFEfO_Wv6PemvegrG93Mm5w&e=1756928071
-
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamEast - Basketball Hub",Connecticut Sun vs. Chicago Sky Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://fl1.moveonjoy.com/NBA_TV/tracks-v1a1/mono.m3u8?verify=1756917275-fgeYRWe%2B44jo3rMVvtEwe2ekgLXTc5R2JnB5jmnUBAA%3D
-
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true" group-title="StreamEast - Baseball",Toronto Blue Jays vs. Cincinnati Reds Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/jkzahzadach20.m3u8?st=a6kHMZtU40xlqp8oYLko_NaUCIn3Cw55ZKzN7v8Eh90&e=1756928093
+https://edgestreams.pro/hls/jkzahzadach20.m3u8?st=Z5EsGcq4wQ9HOORYAdowFXCIuQC4G6ZgYIKIhBdHzGw&e=1756931049
 
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true" group-title="StreamEast - Baseball",Los Angeles Dodgers vs. Pittsburgh Pirates Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/bzagLHzach19.m3u8?st=yIew-Y-Z_Qh-x85qaHmRB8DO_LTsqSm0IuXwMym-xvU&e=1756928100
-
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamEast - F1",F1 Italian GP Race Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/hbfkazbkaznc49.m3u8?st=QT3wbu7T6zdSWQfjKFJqaUUkdWozlJmPyePTsyAznWU&e=1756928106
-
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true" group-title="StreamEast - Baseball",Athletics vs. St. Louis Cardinals Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/fskjanach24.m3u8?st=bOcLUZnfs7z_Z5w1Z0TLFqgSQ7eH1kiMtIZ8r6bcjV8&e=1756928138
+https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=UqyIz3sOk-wTr1SQdn7XjvuKFJkRR7-wN24H8ijWHFQ&e=1756931056
 
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true" group-title="StreamEast - Baseball",San Francisco Giants vs. Colorado Rockies Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/dzjhkfazbka26.m3u8?st=yd_AuOqy0x_uKrMXV35kQ8YDnfL77KiTGnbOTwVWdzg&e=1756928153
+https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?st=UDXIb_PGyHQ7WZ1ReIxbR79DkOnKpi_mDBKb8kteOrY&e=1756931068
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true" group-title="StreamEast - Baseball",Los Angeles Angels vs. Kansas City Royals Live Stream
+#EXTINF:-1 tvg-id="Boxing.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/boxing.png?raw=true" group-title="StreamEast - Boxing",Canelo Alvarez vs. Terence Crawford Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=ZgPTQK4yvqNFQJpgGUxsnzaPJKrJGpuRdZeaJkF_K10&e=1756928177
+https://edgestreams.pro/hls/hbfhzbfzak46.m3u8?st=jPBk5mClwqJ4OURMlQyU8g48ADMDFRybLxV7Mqs9Ork&e=1756931073
+
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true" group-title="StreamEast - Baseball",Chicago White Sox vs. Minnesota Twins Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://edgestreams.pro/hls/jnzkdzjfanch23.m3u8?st=8ErDtSxdYSg_syyL1u-mrwT1cBMHirgvS8x0jEJS-_M&e=1756931091
+
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true" group-title="StreamEast - Am. Football",Baltimore vs. Buffalo Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756920308-xwCFH24SMjgNNnlaja5LhDV8tzewM%2FRjLEGbVungRUo%3D
+
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true" group-title="StreamEast - Baseball",New York Yankees vs. Houston Astros Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://mainstreams.pro/hls/kjhfzua25.m3u8?st=lGaQr66x5a29tvnmQ-jDefGGIritWrcT_tmYrLk3X2M&e=1756931113
 
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true" group-title="StreamEast - Baseball",Cleveland Guardians vs. Boston Red Sox Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=JbtXrYiRKEeCDn3te9ABeFOSBgaZxG7KevqcjrChwJ4&e=1756928183
+https://edgestreams.pro/hls/ojzkajnach21.m3u8?st=hNHBmIAbUtxf37Q-yyr_tNagv5Q_whEmP5lhTCuVOtE&e=1756931118
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamEast - F1",F1 Italian GP Qualifying Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=O9UI4YyBvMI-lbZ5nD6EBAkG8cocrt2Y7Qb209rPxdo&e=1756931124
 
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamEast - F1",F1 Italian GP Free Practice 2 Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/hbfkazbkaznc49.m3u8?st=tmYgSppArc4n_aVGErmOQiBA0z_j4KtG5VVQvRqVfgQ&e=1756928204
+https://edgestreams.pro/hls/hbfkazbkaznc49.m3u8?st=AoAoUSAyEDr4q2sqHftx8_kuY1BgJ8tOaD-WGWP4liQ&e=1756931144
 
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamEast - F1",F1 Italian GP Free Practice 1 Live Stream
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true" group-title="StreamEast - Baseball",Athletics vs. St. Louis Cardinals Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/hbfkazbkaznc49.m3u8?st=9trr78HTCRc5QuZ6psO5KoKVfIfOXsC_XdmXSjHexRM&e=1756928209
+https://edgestreams.pro/hls/fskjanach24.m3u8?st=JJ7lwsm0aOfkVjrAmwYQbsBlSxl1NqGddURhcCFNUcY&e=1756931156
+
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true" group-title="StreamEast - Baseball",Atlanta Braves vs. Chicago Cubs Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://edgestreams.pro/hls/ijfnakfidch22.m3u8?st=T1T-6-QpN7TMCHdqXilYpj9G6wJ9xuXL_jVy7EmmoeU&e=1756931162
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamEast - F1",F1 Italian GP Free Practice 3 Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://edgestreams.pro/hls/hbfkazbkaznc49.m3u8?st=KziRNTfXk5B-Tv6UYPHhhyvxPGrUDN-VD4KXiaHyJ74&e=1756931192
+
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true" group-title="StreamEast - Am. Football",Cincinnati vs. Cleveland Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756920420-5FBM7XVPtCLwok4jnW1PfPBxciBGAxenxMBQaHfjh6Y%3D
+
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true" group-title="StreamEast - Baseball",Toronto Blue Jays vs. Cincinnati Reds Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://edgestreams.pro/hls/jkzahzadach20.m3u8?st=gv4pZV4VMHx5dcoB8kCr37R8H1NyIpCaqpXjC9yOwdU&e=1756931232
 
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true" group-title="StreamEast - Am. Football",Pittsburgh vs. N.Y. Jets Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756917420-DXDil21Zr9nOVepC3Wja7JEG95khMAxgWlP1u6s3YbY%3D
+https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756920438-K9502NAFHNXf2h5vJeIgTfji67tM%2F6lqT%2BMfriDuJwI%3D
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamEast - F1",F1 Italian GP Race Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://edgestreams.pro/hls/hbfkazbkaznc49.m3u8?st=UVUG4sMQRr-a8mDoWJ9f9envsfXYN5Pz8-Sxlbn4kq0&e=1756931242
+
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true" group-title="StreamEast - Baseball",Texas Rangers vs. Arizona Diamondbacks Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://edgestreams.pro/hls/ihfazugfyjcazich17.m3u8?st=wAOws05BmzxaUQk7WI83Bs7NApa7y1HTNUmXAYdcu4g&e=1756931255
+
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true" group-title="StreamEast - Baseball",Baltimore Orioles vs. San Diego Padres Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://mainstreams.pro/hls/Czajafjihafch18.m3u8?st=RIJHiYTkJQHR9lbMs3Gt0ydMYmgsm1RY6ydYoygpIg8&e=1756931259
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamEast - F1",F1 Italian GP Free Practice 1 Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=G_RRMaMg6hx4IzLVB21ahFUKchwpC_Tl6v2Q-SulDxM&e=1756931281
+
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true" group-title="StreamEast - Baseball",Los Angeles Angels vs. Kansas City Royals Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=qnk-aEdPnt5zKkCbx5J2jCGmX8dySXxe1sAsL0uOUyk&e=1756931293
 
