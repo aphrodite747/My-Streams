@@ -1,20 +1,14 @@
-# Updated at 2025-09-06T06:33:37.964629Z
+# Updated at 2025-09-06T07:23:08.125656Z
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamEast - F1",F1 Italian GP Race Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/hbfkazbkaznc49.m3u8?st=w1snTiJPJW0iicAzvtLuZ6tE3lR7zrDlojc-f_T41Qg&e=1757151232
-
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamEast - F1",F1 Italian GP Qualifying Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=dV9hLnKwtHhLOIlcvTbEES_P7WR-rXqp5E4POX7NF5E&e=1757151361
+https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=4dp6qfl5ji9qDlJvkJrb-tlHpwZzKRtkmDjL-RIauG0&e=1757154298
 
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamEast - F1",F1 Italian GP Free Practice 3 Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=IavbBVHXJ_WYQdeFUBLy_17rF1G2RFCZq1JksqE7dZE&e=1757151407
+https://edgestreams.pro/hls/hbfkazbkaznc49.m3u8?st=b9QT-uNClK0WKITcs0s2a19CEUKVBJqWxEdIg9zwNfM&e=1757154318
 
