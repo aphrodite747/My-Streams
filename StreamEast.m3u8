@@ -1,20 +1,20 @@
-# Updated at 2025-09-13T16:29:07.798134Z
+# Updated at 2025-09-13T17:21:04.318097Z
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true" group-title="StreamEast - Baseball",Los Angeles Dodgers vs. San Francisco Giants Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/hefbafbakx28.m3u8?st=joHZGWW_6g5OSU2GOLqntZl-AhOiSN3YxM9aBLvrkMA&e=1757791794
-
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true" group-title="StreamEast - Baseball",Los Angeles Angels vs. Seattle Mariners Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/hefbafbakx28.m3u8?st=7d4mckBTJPgNEvqazP7wCeSZKoWhsCJxshqSsccf0Vs&e=1757791967
+https://mainstreams.pro/hls/hefbafbakx28.m3u8?st=dpwGwwnxJtQXFv9Nu6kUquWbEAsUmf9549ZJ-xn6OwI&e=1757794957
 
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true" group-title="StreamEast - Baseball",Cincinnati Reds vs. Athletics Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/jzabfazkbf27.m3u8?st=WNWb2gUDgOcLWhd-X1eE3imHMs1v7SDPxtZglCsCKFk&e=1757792050
+https://edgestreams.pro/hls/jzabfazkbf27.m3u8?st=vy_vcQQ858MEtlgNgl4-Cga8CN2p6bAmB6ieDEo7mIQ&e=1757795016
+
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true" group-title="StreamEast - Baseball",Los Angeles Angels vs. Seattle Mariners Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://mainstreams.pro/hls/hefbafbakx28.m3u8?st=84OSvVs1LDBjMBYR0wqN-WHIzjWXV2BygzgUjrNI-9Y&e=1757795044
 
