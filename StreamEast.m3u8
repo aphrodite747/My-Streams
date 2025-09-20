@@ -1,56 +1,44 @@
-# Updated at 2025-09-20T17:21:29.764560Z
+# Updated at 2025-09-20T18:33:45.549069Z
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true" group-title="StreamEast - Baseball",Washington Nationals vs. New York Mets Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://edgestreams.pro/hls/bzagLHzach19.m3u8?st=93HPkWhEWOE-mu7lsrkjTjv2D5RjBMZMCGDSmIl9Qx8&e=1758404057
+
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true" group-title="StreamEast - Baseball",Boston Red Sox vs. Tampa Bay Rays Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/jkzahzadach20.m3u8?st=AcQeZEihXSqFxQE2C1zF8uCbrpASJ05zETQZ6r8Ahdc&e=1758399714
-
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true" group-title="StreamEast - Baseball",San Diego Padres vs. Chicago White Sox Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/ojzkajnach21.m3u8?st=IIfvU5hANs1jyMMkUiIxPqhac28kmaUGviqsM1aCesU&e=1758399720
-
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true" group-title="StreamEast - Baseball",Miami Marlins vs. Texas Rangers Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?st=gGbdCbqaQA9oJrO1-FCOtUYoj_e4PmodV35mcqwd55A&e=1758399724
-
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true" group-title="StreamEast - Baseball",Cleveland Guardians vs. Minnesota Twins Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/fskjanach24.m3u8?st=6x98ePhgF9yo4wzhnmS_EjKPs2roSTI5fj6OzG9iJ-A&e=1758399792
+https://edgestreams.pro/hls/jkzahzadach20.m3u8?st=sf0MzQuwPXsBGzko6q_1G3NAQvPE2qIqwaHCZqY_MAk&e=1758404078
 
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true" group-title="StreamEast - Baseball",Seattle Mariners vs. Houston Astros Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/kjhfzua25.m3u8?st=xNp7isOjNUvtF5u72xj-GK8ApfMNcIPlMKx7TeJx-q4&e=1758399827
+https://mainstreams.pro/hls/kjhfzua25.m3u8?st=gDw4CpMKD1iiEfhFkcFqOjcCEmEceY85OsttCQrWYBY&e=1758404083
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true" group-title="StreamEast - Baseball",Cleveland Guardians vs. Minnesota Twins Live Stream
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true" group-title="StreamEast - Baseball",San Diego Padres vs. Chicago White Sox Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/fskjanach24.m3u8?st=yqTBlkoRf2Ewy7rVeywM_5kkvK4lFda41kIOgHJOf_k&e=1758399862
+https://edgestreams.pro/hls/ojzkajnach21.m3u8?st=IvhTBC22uoEVW5xlR6TnfSxRP8FI643hOQkV1cLluiQ&e=1758404094
 
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true" group-title="StreamEast - Baseball",Los Angeles Angels vs. Colorado Rockies Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/dzjhkfazbka26.m3u8?st=bSHKJmTNKOIuKrDO4BVrIbLcCD7UjppwutVC9EaHsLU&e=1758399880
+https://edgestreams.pro/hls/dzjhkfazbka26.m3u8?st=8VU2HKncdKawIcbrNSN_LqWT_hS9d2MLYK27_hdede0&e=1758404152
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true" group-title="StreamEast - Baseball",Washington Nationals vs. New York Mets Live Stream
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true" group-title="StreamEast - Baseball",Miami Marlins vs. Texas Rangers Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=YY-aL9WMnbVw7K7ZNdrOgzYlX1hFJ5fGT0u4eN2pFfU&e=1758399917
+https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?st=tyna2VQK_k2Z88CEdnsNQCYO_4eSUY_YL2GK19JBp5w&e=1758404209
 
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true" group-title="StreamEast - Baseball",Athletics vs. Pittsburgh Pirates Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?st=1ORT5PwoWmKcZN_ugDWf3hiE96gw3M-BX7_umx9yXQ8&e=1758399922
+https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?st=97StalZ_4U9cc9CVIr63j_8D4m6inUjCn9fcpL3k9Xc&e=1758404265
 
