@@ -35,7 +35,7 @@ jobs:
     - name: Run update script
       id: update
       env:
-        TV_M3U_SOURCE_URL: ${{ secrets.AX1S_SOURCE_URL }}
+       AX1S_SOURCE_URL: ${{ secrets.AX1S_SOURCE_URL }}
       run: |
         # Print current directory and files for debugging
         pwd
