@@ -82,13 +82,15 @@ http://fl30.moveonjoy.com/ACC_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="AMC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" tvg-name="AMC", AMC
 http://fl30.moveonjoy.com/AMC_NETWORK/index.m3u8
-# http://23.237.104.106:8080/USA_AMC/index.m3u8
 
 #EXTINF:-1 tvg-id="plex.tv.AMC.Thrillers.plex" tvg-name="AMC Thrillers" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png" group-title="MoveOnJoy+", AMC THRILLERS
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d.m3u8
 
+# ---------------
 # EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f3ba" tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f3ba" tvg-name="STORIES BY AMC" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dc11bbe6b65b5884a0af6702f6b61c61.png" group-title="MoveOnJoy+", STORIES BY AMC
 # http://fl30.moveonjoy.com/AMC_NETWORK/index.m3u8
+# ---------------
+
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="American.Heroes.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" tvg-name="American Heroes Channel", AMERICAN HEROS CHANNEL
 http://fl7.moveonjoy.com/American_Heroes_Channel/index.m3u8
@@ -151,8 +153,10 @@ http://fl7.moveonjoy.com/BLOOMBERG/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Boomerang.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" tvg-name="Boomerang", BOOMERANG
 http://fl7.moveonjoy.com/BOOMERANG/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Bounce.TV.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" tvg-name="BOUNCE", BOUNCE (Offline)
-http://fl30.moveonjoy.com/BOUNCE_TV/index.m3u8
+# ---------------
+# EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Bounce.TV.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" tvg-name="BOUNCE", BOUNCE (Offline)
+# http://fl30.moveonjoy.com/BOUNCE_TV/index.m3u8
+# ---------------
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="plex.tv.Bounce.XL.plex" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/67bb1f39c612ac06e49755f639aa08ab.png" tvg-name="Bounce XL", BOUNCE XL
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-623d9b0370560b72147a994a.m3u8
@@ -2438,6 +2442,7 @@ http://fl7.moveonjoy.com/PPV_5/index.m3u8
 http://fl30.moveonjoy.com/PPV_6/index.m3u8
 #EXTINF:-1 group-title="Events" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 6b", PPV 6b
 http://fl7.moveonjoy.com/PPV_6/index.m3u8
+
 
 
 
