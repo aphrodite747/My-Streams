@@ -153,10 +153,9 @@ http://143.244.60.30/BLOOMBERG/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Boomerang.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" tvg-name="Boomerang", BOOMERANG
 http://143.244.60.30/BOOMERANG/index.m3u8
 
-# ---------------
-# EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Bounce.TV.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" tvg-name="BOUNCE", BOUNCE (Offline)
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Bounce.TV.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" tvg-name="BOUNCE", BOUNCE
+https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8
 # http://143.244.60.30/BOUNCE_TV/index.m3u8
-# ---------------
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="plex.tv.Bounce.XL.plex" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/67bb1f39c612ac06e49755f639aa08ab.png" tvg-name="Bounce XL", BOUNCE XL
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-623d9b0370560b72147a994a.m3u8
@@ -2442,6 +2441,7 @@ http://143.244.60.30/PPV_5/index.m3u8
 http://143.244.60.30/PPV_6/index.m3u8
 #EXTINF:-1 group-title="Events" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 6b", PPV 6b
 http://143.244.60.30/PPV_6/index.m3u8
+
 
 
 
