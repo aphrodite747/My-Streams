@@ -22,9 +22,9 @@ https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
 https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
 
 #EXTINF:-1 tvg-id="WPIX-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true" group-title="Local TV",CW (WPIX) NY
-http://cord-cutter.net:8080/E7p7DU/011587/120897
+http://cord-cutter.net:8080/bn80NG/909467/120897
 #EXTINF:-1 tvg-id="WCCB-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true" group-title="Local TV",CW (WCCB) NC
-http://cord-cutter.net:8080/E7p7DU/011587/120890
+http://cord-cutter.net:8080/bn80NG/909467/120890
 #EXTINF:-1 tvg-id="KCWE-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true" group-title="Local TV",CW (KCWE) MO
 https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
 #EXTINF:-1 group-title="Local TV" tvg-id="KOMU-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true", CW (KOMU) MO
@@ -34,9 +34,9 @@ https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
 
 
 #EXTINF:-1 group-title="Local TV" tvg-id="WTXF-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX (WTFX) PA
-http://cord-cutter.net:8080/E7p7DU/011587/120775
+http://cord-cutter.net:8080/bn80NG/909467/120775
 #EXTINF:-1 group-title="Local TV" tvg-id="WNYW-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX (WNYW) NY
-http://cord-cutter.net:8080/E7p7DU/011587/120750
+http://cord-cutter.net:8080/bn80NG/909467/120750
 #EXTINF:-1 group-title="Local TV" tvg-id="KYOU-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX (KYOU) IA
 https://cvtv.cvalley.net/hls/KYOUFOX/KYOUFOX.m3u8
 #EXTINF:-1 group-title="Local TV" tvg-id="WDAF-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX (WDAF) MO
@@ -45,7 +45,7 @@ https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
 https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
 
 #EXTINF:-1 group-title="Local TV" tvg-id="WCAU-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true", NBC (WCAU) PA
-http://cord-cutter.net:8080/E7p7DU/011587/120776
+http://cord-cutter.net:8080/bn80NG/909467/120776
 #EXTINF:-1 group-title="Local TV" tvg-id="KYOU-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true", NBC (KYOU) IA
 https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
 #EXTINF:-1 group-title="Local TV" tvg-id="KOMU-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true", NBC (KOMU) MO
@@ -2438,6 +2438,7 @@ http://fl7.moveonjoy.com/PPV_5/index.m3u8
 http://fl30.moveonjoy.com/PPV_6/index.m3u8
 #EXTINF:-1 group-title="Events" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 6b", PPV 6b
 http://fl7.moveonjoy.com/PPV_6/index.m3u8
+
 
 
 
