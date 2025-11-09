@@ -35,7 +35,7 @@ jobs:
     - name: Run update script
       id: update
       env:
-        BUDDYLIVE_V1_SOURCE_URL: ${{ secrets.FSTV_SOURCE_URL }}
+        FSTV_SOURCE_URL: ${{ secrets.FSTV_SOURCE_URL }}
       run: |
         # Print current directory and files for debugging
         pwd
@@ -49,7 +49,7 @@ jobs:
         
         # Verify the file was created
         if [ ! -f "FSTV.m3u" ]; then
-          echo "::error::buddylive_v1.m3u was not created"
+          echo "::error::FSTV.m3u was not created"
           exit 1
         fi
         
