@@ -1,45 +1,70 @@
-name: ▶️ Generate StreamedSU Playlist
+
+name: 🔄 Generate StreamedSU Playlist ⚡
 
 on:
   schedule:
-    - cron: '0 * * * *' # ⏰ Runs every hour on the hour
-  workflow_dispatch: # 🟢 Allows manual runs from the GitHub UI
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 permissions:
-  contents: write # ✍️ Grants permission to write to the repository
+  contents: write
 
 jobs:
   scrape:
-    runs-on: ubuntu-latest # 🐧 Uses a clean Ubuntu environment
+    runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: 📥 Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Fetches full history for proper git checks
+          fetch-depth: 0
 
-      - name: Set up Python
+      - name: 🐍 Set up Python 3.11
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11' # 🐍 Matches your local Python target
+          python-version: '3.11'
 
-      - name: Install dependencies & Playwright
+      - name: 📦 Install Python dependencies & Playwright (Chrome Beta)
         run: |
           python -m pip install --upgrade pip
           pip install playwright requests
-          playwright install firefox        # 🌐 Install the Firefox browser for Playwright
-          playwright install-deps           # 🔧 System deps for headless browser
+          python -m playwright install chromium
+          python -m playwright install-deps
+          sudo apt-get update
+          sudo apt-get install -y wget gnupg
+          wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo gpg --dearmor -o /usr/share/keyrings/google-linux-signing-keyring.gpg
+          echo "deb [arch=amd64 signed-by=/usr/share/keyrings/google-linux-signing-keyring.gpg] http://dl.google.com/linux/chrome/deb/ stable main" | sudo tee /etc/apt/sources.list.d/google-chrome.list
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-beta
 
-      - name: Run StreamedSU Scraper
-        run: |
-          echo "🚀 Starting StreamedSU scrape..."
-          python streamed.py
-          echo "✅ Scrape complete, output saved to StreamedSU.m3u8"
+      - name: 🎯 Run scraping script
+        run: python streamed.py
 
-      - name: Commit and Push updated playlist
+      - name: 💾 Commit & Safely Push if Playlist Changed
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add StreamedSU.m3u8
-          git commit -m "📺 Update StreamedSU $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
-          git push
+
+          if git diff --cached --quiet; then
+            echo "✅ No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "🧩 Update StreamedSU Playlist ⚡ $(date -u +'%a %b %d %T UTC %Y')"
+
+          sleep $((RANDOM % 10 + 5))
+
+          if ! git push origin main; then
+            echo "⚠️ Push rejected. Trying safe fetch + rebase..."
+            git pull origin main --rebase || {
+              echo "❌ Rebase failed. Exiting safely."
+              exit 1
+            }
+            git push origin main || {
+              echo "❌ Second push failed. Remote changed again."
+              exit 1
+            }
+          fi
