@@ -86,6 +86,6 @@ jobs:
     - name: Commit and push changes
       if: steps.git-check.outputs.changes_detected == 'true'
       run: |
-        git commit -m "📺 Updated"
+        git commit -m "📺 Updated AS1X.M3U"
         git pull --rebase origin main
         git push
