@@ -24,12 +24,12 @@ CUSTOM_HEADERS = {
 }
 
 FALLBACK_LOGOS = {
-    "american football": "http://drewlive24.duckdns.org:9000/Logos/Am-Football2.png",
-    "football": "https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/RvN0XSF.png",
-    "fight": "http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png",
-    "basketball": "http://drewlive24.duckdns.org:9000/Logos/Basketball5.png",
-    "motor sports": "http://drewlive24.duckdns.org:9000/Logos/Motorsports3.png",
-    "darts": "http://drewlive24.duckdns.org:9000/Logos/Darts.png",
+    "american football": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true",
+    "football": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true",
+    "fight": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true",
+    "basketball": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true",
+    "motor sports": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true",
+    "darts": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true",
     "tennis": "http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png",
     "rugby": "http://drewlive24.duckdns.org:9000/Logos/Rugby.png",
     "cricket": "http://drewlive24.duckdns.org:9000/Logos/Cricket.png",
