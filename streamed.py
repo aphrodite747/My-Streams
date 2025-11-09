@@ -5,7 +5,6 @@ import logging
 from datetime import datetime
 from playwright.async_api import async_playwright
 
-# ---------- LOGGING ----------
 logging.basicConfig(
     filename="scrape.log",
     level=logging.INFO,
@@ -18,44 +17,57 @@ console.setFormatter(logging.Formatter("%(asctime)s | %(levelname)-8s | %(messag
 logging.getLogger("").addHandler(console)
 log = logging.getLogger("scraper")
 
-# ---------- CONFIG ----------
 CUSTOM_HEADERS = {
-    "Origin": "https://ppv.to",
-    "Referer": "https://ppv.to/",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0"
+    "Origin": "https://embedsports.top",
+    "Referer": "https://embedsports.top/",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
 }
 
 FALLBACK_LOGOS = {
-    "american-football": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true",
-    "football": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true",
-    "fight": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true",
-    "basketball": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true",
-    "motor sports": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true",
-    "darts": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true"
+    "american football": "http://drewlive24.duckdns.org:9000/Logos/Am-Football2.png",
+    "football": "https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/RvN0XSF.png",
+    "fight": "http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png",
+    "basketball": "http://drewlive24.duckdns.org:9000/Logos/Basketball5.png",
+    "motor sports": "http://drewlive24.duckdns.org:9000/Logos/Motorsports3.png",
+    "darts": "http://drewlive24.duckdns.org:9000/Logos/Darts.png",
+    "tennis": "http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png",
+    "rugby": "http://drewlive24.duckdns.org:9000/Logos/Rugby.png",
+    "cricket": "http://drewlive24.duckdns.org:9000/Logos/Cricket.png",
+    "golf": "http://drewlive24.duckdns.org:9000/Logos/Golf.png",
+    "other": "http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png"
 }
 
 TV_IDS = {
-    "Baseball": "MLB.Baseball.Dummy.us",
-    "Fight": "PPV.EVENTS.Dummy.us",
-    "American Football": "NFL.Dummy.us",
-    "Afl": "AUS.Rules.Football.Dummy.us",
-    "Football": "Soccer.Dummy.us",
-    "Basketball": "Basketball.Dummy.us",
-    "Hockey": "NHL.Hockey.Dummy.us",
-    "Tennis": "Tennis.Dummy.us",
-    "Darts": "Darts.Dummy.us",
-    "Motor Sports": "Racing.Dummy.us"
+    "baseball": "MLB.Baseball.Dummy.us",
+    "fight": "PPV.EVENTS.Dummy.us",
+    "american football": "Football.Dummy.us",
+    "afl": "AUS.Rules.Football.Dummy.us",
+    "football": "Soccer.Dummy.us",
+    "basketball": "Basketball.Dummy.us",
+    "hockey": "NHL.Hockey.Dummy.us",
+    "tennis": "Tennis.Dummy.us",
+    "darts": "Darts.Dummy.us",
+    "motor sports": "Racing.Dummy.us",
+    "rugby": "Rugby.Dummy.us",
+    "cricket": "Cricket.Dummy.us",
+    "other": "Sports.Dummy.us"
 }
 
-# ---------- COUNTERS ----------
 total_matches = 0
 total_embeds = 0
 total_streams = 0
 total_failures = 0
 
-# ---------- FETCH MATCHES ----------
+
+def strip_non_ascii(text: str) -> str:
+    """Remove emojis and non-ASCII characters."""
+    if not text:
+        return ""
+    return re.sub(r"[^\x00-\x7F]+", "", text)
+
+
 def get_all_matches():
-    endpoints = ["all", "live", "today", "upcoming"]
+    endpoints = ["live"]
     all_matches = []
     for ep in endpoints:
         try:
@@ -84,22 +96,21 @@ def get_embed_urls_from_api(source):
         return []
 
 
-# ---------- M3U8 EXTRACTOR ----------
 async def extract_m3u8(page, embed_url):
-    """Faster, 5s timeout with multi-tab concurrency"""
     global total_failures
     found = None
     try:
         async def on_request(request):
             nonlocal found
             if ".m3u8" in request.url and not found:
+                if "prd.jwpltx.com" in request.url:
+                    return
                 found = request.url
                 log.info(f"  ⚡ Stream: {found}")
 
         page.on("request", on_request)
-
         await page.goto(embed_url, wait_until="domcontentloaded", timeout=5000)
-
+        await page.bring_to_front()
         selectors = [
             "div.jw-icon-display[role='button']",
             ".jw-icon-playback",
@@ -110,7 +121,6 @@ async def extract_m3u8(page, embed_url):
             "button",
             "canvas"
         ]
-
         for sel in selectors:
             try:
                 el = await page.query_selector(sel)
@@ -120,6 +130,31 @@ async def extract_m3u8(page, embed_url):
             except:
                 continue
 
+        try:
+            await page.mouse.click(200, 200)
+            log.info("  👆 First click triggered ad")
+            pages_before = page.context.pages
+            new_tab = None
+            for _ in range(12):
+                pages_now = page.context.pages
+                if len(pages_now) > len(pages_before):
+                    new_tab = [p for p in pages_now if p not in pages_before][0]
+                    break
+                await asyncio.sleep(0.25)
+            if new_tab:
+                try:
+                    await asyncio.sleep(0.5)
+                    url = (new_tab.url or "").lower()
+                    log.info(f"  🚫 Forcing close on ad tab: {url if url else '(blank/new)'}")
+                    await new_tab.close()
+                except Exception:
+                    log.info("  ⚠️ Ad tab close failed")
+            await asyncio.sleep(1)
+            await page.mouse.click(200, 200)
+            log.info("  ▶️ Second click started player")
+        except Exception as e:
+            log.warning(f"⚠️ Momentum click sequence failed: {e}")
+
         for _ in range(4):
             if found:
                 break
@@ -127,15 +162,10 @@ async def extract_m3u8(page, embed_url):
 
         if not found:
             html = await page.content()
-            matches = re.findall(r'https?://[^\s"\'<>]+\.m3u8(?:\?[^"\'<>]*)?', html)
+            matches = re.findall(r'https?://[^\s\"\'<>]+\.m3u8(?:\?[^\"\'<>]*)?', html)
             if matches:
                 found = matches[0]
                 log.info(f"  🕵️ Fallback: {found}")
-
-        # ✅ Only allow gg.poocloud.in
-        if found and "gg.poocloud.in" not in found:
-            log.warning(f"  🚫 Skipping non-poocloud stream: {found}")
-            return None
 
         return found
     except Exception as e:
@@ -144,10 +174,9 @@ async def extract_m3u8(page, embed_url):
         return None
 
 
-# ---------- LOGO HELPERS ----------
 def validate_logo(url, category):
-    cat = (category or "").lower().replace("-", " ").strip()
-    fallback = FALLBACK_LOGOS.get(cat)
+    cat = (category or "other").lower().replace("-", " ").strip()
+    fallback = FALLBACK_LOGOS.get(cat, FALLBACK_LOGOS["other"])
     if url:
         try:
             res = requests.head(url, timeout=2)
@@ -159,7 +188,7 @@ def validate_logo(url, category):
 
 
 def build_logo_url(match):
-    cat = (match.get("category") or "").strip()
+    cat = (match.get("category") or "other").strip()
     teams = match.get("teams") or {}
     for side in ["away", "home"]:
         badge = teams.get(side, {}).get("badge")
@@ -172,25 +201,20 @@ def build_logo_url(match):
     return validate_logo(None, cat), cat
 
 
-# ---------- PROCESS MATCH ----------
 async def process_match(index, match, total, ctx):
     global total_embeds, total_streams
-    title = match.get("title", "Unknown Match")
+    title = strip_non_ascii(match.get("title", "Unknown Match"))
     log.info(f"\n🎯 [{index}/{total}] {title}")
     sources = match.get("sources", [])
     match_embeds = 0
-
     page = await ctx.new_page()
-
     for s in sources:
         embed_urls = get_embed_urls_from_api(s)
         total_embeds += len(embed_urls)
         match_embeds += len(embed_urls)
         if not embed_urls:
             continue
-
         log.info(f"  ↳ {len(embed_urls)} embed URLs")
-
         for i, embed in enumerate(embed_urls, start=1):
             log.info(f"     • ({i}/{len(embed_urls)}) {embed}")
             m3u8 = await extract_m3u8(page, embed)
@@ -199,13 +223,11 @@ async def process_match(index, match, total, ctx):
                 log.info(f"     ✅ Stream OK for {title}")
                 await page.close()
                 return match, m3u8
-
     await page.close()
     log.info(f"     ❌ No working streams ({match_embeds} embeds)")
     return match, None
 
 
-# ---------- MAIN ----------
 async def generate_playlist():
     global total_matches
     matches = get_all_matches()
@@ -216,29 +238,29 @@ async def generate_playlist():
 
     content = ["#EXTM3U"]
     success = 0
-
     async with async_playwright() as p:
-        browser = await p.firefox.launch(headless=True)
+        browser = await p.chromium.launch(headless=True, channel="chrome-beta")
         ctx = await browser.new_context(extra_http_headers=CUSTOM_HEADERS)
-        sem = asyncio.Semaphore(2)  # keep semaphore; we’ll still open/close pages properly
+        sem = asyncio.Semaphore(2)
 
         async def worker(idx, m):
             async with sem:
                 return await process_match(idx, m, total_matches, ctx)
 
-        # ---------- ORDERED PROCESSING (fix: logs start at 1 and stay in order)
         for i, m in enumerate(matches, 1):
-            match, url = await worker(i, m)  # await in order so logs are 1..N
+            match, url = await worker(i, m)
             if not url:
                 continue
-            logo, cat = build_logo_url(match)
-            title = match.get("title", "Untitled")
-            display_cat = cat.replace("-", " ").title() if cat else "General"
-            tv_id = TV_IDS.get(display_cat, "General.Dummy.us")
+
+            logo, raw_cat = build_logo_url(match)
+            base_cat = (raw_cat or "other").strip().replace("-", " ").lower()
+            display_cat = strip_non_ascii(base_cat.title())
+            tv_id = TV_IDS.get(base_cat, TV_IDS["other"])
+            title = strip_non_ascii(match.get("title", "Untitled"))
 
             content.append(
                 f'#EXTINF:-1 tvg-id="{tv_id}" tvg-name="{title}" '
-                f'tvg-logo="{logo}" group-title="StreamedSU - {display_cat}",{title}'
+                f'tvg-logo="{logo or FALLBACK_LOGOS["other"]}" group-title="StreamedSU - {display_cat}",{title}'
             )
             content.append(f'#EXTVLCOPT:http-origin={CUSTOM_HEADERS["Origin"]}')
             content.append(f'#EXTVLCOPT:http-referrer={CUSTOM_HEADERS["Referer"]}')
@@ -252,15 +274,13 @@ async def generate_playlist():
     return "\n".join(content)
 
 
-# ---------- ENTRY ----------
 if __name__ == "__main__":
-    start = datetime.utcnow()
-    log.info("🚀 Starting StreamedSU scrape run...")
+    start = datetime.now()
+    log.info("🚀 Starting StreamedSU scrape run (LIVE only)...")
     playlist = asyncio.run(generate_playlist())
     with open("StreamedSU.m3u8", "w", encoding="utf-8") as f:
         f.write(playlist)
-
-    end = datetime.utcnow()
+    end = datetime.now()
     duration = (end - start).total_seconds()
     log.info("\n📊 FINAL SUMMARY ------------------------------")
     log.info(f"🕓 Duration: {duration:.2f} sec")
