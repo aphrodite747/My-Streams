@@ -1,6 +1,6 @@
 # https://github.com/BuddyChewChew
 
-#EXTM3U url-tvg=""
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
 # -------------- MOVEONJOY LOCAL --------------
 #EXTINF:-1 group-title="MOVEONJOY LOCAL" tvg-id="Blank.Dummy.us" tvg-name="MOVEONJOY LOCAL" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ MOVEONJOY LOCAL ]
@@ -9,355 +9,352 @@ https://jmp2.uk/stvp-CA2900005KG
 # -------------- MOVEONJOY LOCAL --------------
 
 
-#EXTINF:-1 group-title="Local TV" tvg-id="KMIZ-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true", ABC (KMIZ) MO
-https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
-
-#EXTINF:0,ABC Albuquerque
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", ABC Albuquerque
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/NM_Albuquerque_ABC/index.m3u8
-#EXTINF:0,ABC Austin
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", ABC Austin
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/TX_AUSTIN_ABC/index.m3u8
 #EXTINF:20,ABC Birmingham
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/AL_BIRMINGHAM_ABC/index.m3u8
-#EXTINF:0,ABC Boston
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", ABC Boston
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/MA_BOSTON_ABC/index.m3u8
-#EXTINF:0,ABC Chicago
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", ABC Chicago
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/IL_CHICAGO_ABC/index.m3u8
-#EXTINF:0,ABC Cleveland
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", ABC Cleveland
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/OH_CLEVELAND_ABC/index.m3u8
-#EXTINF:0,ABC Colorado Springs
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", ABC Colorado Springs
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/CO_Colorado_Springs_ABC/index.m3u8
-#EXTINF:0,ABC Dallas
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", ABC Dallas
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/TX_DALLAS_ABC/index.m3u8
-#EXTINF:0,ABC Gainesville
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", ABC Gainesville
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/FL_GAINESVILLE_ABC/index.m3u8
-#EXTINF:0,ABC Houston
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", ABC Houston
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/TX_HOUSTON_ABC/index.m3u8
-#EXTINF:0,ABC Jacksonville
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", ABC Jacksonville
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/FL_JACKSONVILLE_ABC/index.m3u8
-#EXTINF:0,ABC Los Angeles
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", ABC Los Angeles
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/CA_LOS_ANGELES_ABC/index.m3u8
-#EXTINF:0,ABC Los Angeles
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", ABC Los Angeles
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/CA_LOS_ANGELES_ABC/index.m3u8
-#EXTINF:0,ABC Madison
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", ABC Madison
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/WI_MADISON_ABC/index.m3u8
-#EXTINF:0,ABC Miami
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", ABC Miami
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/FL_MIAMI_ABC/index.m3u8
-#EXTINF:0,ABC Mobile
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", ABC Mobile
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/AL_MOBILE_ABC/index.m3u8
-#EXTINF:0,ABC Nashville
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", ABC Nashville
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/TN_NASHVILLE_ABC/index.m3u8
-#EXTINF:0,ABC New York
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", ABC New York
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/NY_NEW_YORK_ABC/index.m3u8%20
-#EXTINF:0,ABC New York
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", ABC New York
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/NY_NEW_YORK_ABC/index.m3u8%20
-#EXTINF:0,ABC Orlando
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", ABC Orlando
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/FL_ORLANDO_ABC/index.m3u8
-#EXTINF:0,ABC Philadelphia
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", ABC Philadelphia
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/PA_PHILADELPHIA_ABC/index.m3u8
-#EXTINF:0,ABC Tallahassee
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", ABC Tallahassee
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/FL_Tallahassee_ABC/index.m3u8
-#EXTINF:0,ABC Tampa
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", ABC Tampa
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8
-#EXTINF:0,ABC Tulsa
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", ABC Tulsa
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/OK_TULSA_ABC/index.m3u8
-#EXTINF:0,CBS Augusta
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", CBS Augusta
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/GA_AUGUSTA_CBS/index.m3u8
-#EXTINF:0,CBS Bakersfield
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", CBS Bakersfield
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/CA_BAKERSFIELD_CBS/index.m3u8
-#EXTINF:0,CBS Baton Rouge
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", CBS Baton Rouge
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/LA_BATON_ROUGE_CBS/index.m3u8
-#EXTINF:0,CBS Boston
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", CBS Boston
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/MA_BOSTON_CBS/index.m3u8
-#EXTINF:0,CBS Cedar Rapids
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", CBS Cedar Rapids
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/IA_CEDAR_RAPIDS_CBS/index.m3u8
-#EXTINF:0,CBS Chicago
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", CBS Chicago
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/IL_Chicago_CBS/index.m3u8%20
-#EXTINF:0,CBS Colorado
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", CBS Colorado
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/CO_DENVER_CBS/index.m3u8
-#EXTINF:0,CBS Colorado Springs
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", CBS Colorado Springs
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/CO_Colorado_Springs_CBS/index.m3u8
-#EXTINF:0,CBS Dallas
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", CBS Dallas
 #EXTVLCOPT:network-caching=1000
 https://fl1.moveonjoy.com/TX_Dallas_CBS/index.m3u8
-#EXTINF:0,CBS Dayton
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", CBS Dayton
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/OH_DAYTON_CBS/index.m3u8
-#EXTINF:0,CBS Detroit
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", CBS Detroit
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/MI_Detroit_CBS/index.m3u8
-#EXTINF:0,CBS Houston
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", CBS Houston
 #EXTVLCOPT:network-caching=1000
 https://fl1.moveonjoy.com/TX_HOUSTON_CBS/index.m3u8%20
-#EXTINF:0,CBS Jacksonville
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", CBS Jacksonville
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/FL_JACKSONVILLE_CBS/index.m3u8%20
-#EXTINF:0,CBS LA
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", CBS LA
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/CA_Los_Angeles_CBS/index.m3u8%20
-#EXTINF:0,CBS LA
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", CBS LA
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/CA_Los_Angeles_CBS/index.m3u8%20
-#EXTINF:0,CBS Las Vegas
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", CBS Las Vegas
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/NV_LAS_VEGAS_CBS/index.m3u8
-#EXTINF:0,CBS Lexington
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", CBS Lexington
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/KY_Lexington_CBS/index.m3u8
-#EXTINF:0,CBS Louisville
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", CBS Louisville
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/KY_LOUISVILLE_CBS/index.m3u8
-#EXTINF:0,CBS Macon
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", CBS Macon
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/GA_MACON_CBS/index.m3u8
-#EXTINF:0,CBS Miami
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", CBS Miami
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/FL_Miami_CBS/index.m3u8%20
-#EXTINF:0,CBS Mobile
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", CBS Mobile
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/AL_MOBILE_CBS/index.m3u8
-#EXTINF:0,CBS Nashville
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", CBS Nashville
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/TN_Nashville_CBS/index.m3u8
-#EXTINF:0,CBS New York
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", CBS New York
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/NY_NEW_YORK_CBS/index.m3u8
-#EXTINF:0,CBS New York
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", CBS New York
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/NY_NEW_YORK_CBS/index.m3u8
-#EXTINF:0,CBS Orlando
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", CBS Orlando
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/FL_ORLANDO_CBS/index.m3u8
-#EXTINF:0,CBS Philadelphia
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", CBS Philadelphia
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/PA_PHILADELPHIA_CBS/index.m3u8%20
-#EXTINF:0,CBS Savannah
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", CBS Savannah
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/GA_SAVANNAH_CBS/index.m3u8
-#EXTINF:0,CBS Springfield
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", CBS Springfield
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/MA_SPRINGFIELD_CBS/index.m3u8
-#EXTINF:0,CBS Tampa
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", CBS Tampa
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/FL_TAMPA_CBS/index.m3u8%20
-#EXTINF:0,CBS Tucson
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", CBS Tucson
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/AZ_TUCSON_CBS/index.m3u8
-#EXTINF:0,CBS West Palm Beach
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", CBS West Palm Beach
 #EXTVLCOPT:network-caching=1000
 https://fl1.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8
-#EXTINF:0,CW Orlando
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", CW Orlando
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/CW_ORLANDO/index.m3u8
-#EXTINF:0,CW44 Tampa
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", CW44 Tampa
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/FL_Tampa_CW44/index.m3u8
-#EXTINF:0,CW44 Tampa
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", CW44 Tampa
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/FL_Tampa_CW44/index.m3u8
-#EXTINF:0,FOX Albuquerque
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", FOX Albuquerque
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/NM_Albuquerque_FOX/index.m3u8
-#EXTINF:0,FOX Atlanta
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", FOX Atlanta
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/GA_Atlanta_FOX/index.m3u8%20
-#EXTINF:0,FOX Austin
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", FOX Austin
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/TX_AUSTIN_FOX/index.m3u8
-#EXTINF:0,FOX Baton Rouge
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", FOX Baton Rouge
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/LA_BATON_ROUGE_FOX/index.m3u8
-#EXTINF:0,FOX Boston
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", FOX Boston
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/MA_BOSTON_FOX/index.m3u8
-#EXTINF:0,FOX Boston
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", FOX Boston
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/MA_BOSTON_FOX/index.m3u8
-#EXTINF:0,FOX Chicago
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", FOX Chicago
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/IL_Chicago_FOX/index.m3u8%20
-#EXTINF:0,FOX Dallas
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", FOX Dallas
 #EXTVLCOPT:network-caching=1000
 https://fl1.moveonjoy.com/TX_Dallas_FOX/index.m3u8%20
-#EXTINF:0,FOX Denver
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", FOX Denver
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/CO_Denver_FOX/index.m3u8%20
-#EXTINF:0,FOX Detroit
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", FOX Detroit
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/MI_Detroit_FOX/index.m3u8%20
-#EXTINF:0,FOX Houston
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", FOX Houston
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/TX_Houston_FOX/index.m3u8%20
-#EXTINF:0,FOX Indianapolis
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", FOX Indianapolis
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/IN_Indianapolis_FOX/index.m3u8
-#EXTINF:0,FOX Jacksonville
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", FOX Jacksonville
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/FL_Jacksonville_FOX/index.m3u8
-#EXTINF:0,FOX Knoxville
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", FOX Knoxville
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/TN_Knoxville_FOX/index.m3u8
-#EXTINF:0,FOX Las Vegas
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", FOX Las Vegas
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/NV_LAS_VEGAS_FOX/index.m3u8
-#EXTINF:0,FOX Las Vegas
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", FOX Las Vegas
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/NV_LAS_VEGAS_FOX/index.m3u8
-#EXTINF:0,FOX Louisville
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", FOX Louisville
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/KY_Louisville_FOX/index.m3u8
-#EXTINF:0,FOX Memphis
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", FOX Memphis
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/TN_Memphis_FOX/index.m3u8
-#EXTINF:0,FOX Miami
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", FOX Miami
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/FL_Miami_FOX/index.m3u8%20
 #EXTINF:20,FOX Mobile
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/AL_MOBILE_FOX/index.m3u8
-#EXTINF:0,FOX Nashville
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", FOX Nashville
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/TN_Nashville_FOX/index.m3u8
-#EXTINF:0,FOX News
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", FOX News
 #EXTVLCOPT:network-caching=1000
 https://fl31.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
-#EXTINF:0,FOX Orlando
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", FOX Orlando
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/FL_ORLANDO_FOX/index.m3u8
-#EXTINF:0,FOX Philadelphia
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", FOX Philadelphia
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/PA_PHILADELPHIA_FOX/index.m3u8%20
-#EXTINF:0,FOX San Antonio
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", FOX San Antonio
 #EXTVLCOPT:network-caching=1000
 https://fl1.moveonjoy.com/TX_San_Antonio_FOX/index.m3u8
-#EXTINF:0,FOX Seattle
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", FOX Seattle
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/WA_SEATTLE_FOX/index.m3u8
-#EXTINF:0,FOX Tampa
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", FOX Tampa
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/FL_Tampa_Fox/index.m3u8%20
-#EXTINF:0,FOX Washington DC
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", FOX Washington DC
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/DC_WASHINGTON_FOX/index.m3u8
-#EXTINF:0,FOX West Palm
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", FOX West Palm
 #EXTVLCOPT:network-caching=1000
 https://fl1.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8
-#EXTINF:0,NBC Albuquerque
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", NBC Albuquerque
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/NM_Albuquerque_NBC/index.m3u8
-#EXTINF:0,NBC Atlanta
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", NBC Atlanta
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/GA_ATLANTA_NBC/index.m3u8
 #EXTINF:20,NBC Birmingham
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/AL_Birmingham_NBC/index.m3u8
-#EXTINF:0,NBC Chicago
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", NBC Chicago
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/IL_Chicago_NBC/index.m3u8
-#EXTINF:0,NBC Dallas
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", NBC Dallas
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/TX_Dallas_NBC/index.m3u8
-#EXTINF:0,NBC Denver
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", NBC Denver
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/CO_Denver_NBC/index.m3u8
-#EXTINF:0,NBC Detroit
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", NBC Detroit
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/MI_Detroit_NBC/index.m3u8
-#EXTINF:0,NBC Fort Wayne
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", NBC Fort Wayne
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/IN_Fort_Wayne_NBC/index.m3u8
-#EXTINF:0,NBC Fresno
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", NBC Fresno
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/CA_FRESNO_NBC/index.m3u8
-#EXTINF:0,NBC Gainesville
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", NBC Gainesville
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/FL_Gainesville_NBC/index.m3u8
-#EXTINF:0,NBC Houston
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", NBC Houston
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/TX_Houston_NBC/index.m3u8
-#EXTINF:0,NBC Indianapolis
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", NBC Indianapolis
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/IN_Indianapolis_NBC/index.m3u8
-#EXTINF:0,NBC Jacksonville
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", NBC Jacksonville
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/FL_Jacksonville_NBC/index.m3u8
-#EXTINF:0,NBC Knoxville
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", NBC Knoxville
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/TN_Knoxville_NBC/index.m3u8
-#EXTINF:0,NBC Macon
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", NBC Macon
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/GA_MACON_NBC/index.m3u8
-#EXTINF:0,NBC Memphis
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", NBC Memphis
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/TN_Memphis_NBC/index.m3u8
-#EXTINF:0,NBC Miami
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", NBC Miami
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/FL_Miami_NBC/index.m3u8
-#EXTINF:0,NBC Nashville
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", NBC Nashville
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/TN_Nashville_NBC/index.m3u8
-#EXTINF:0,NBC New York
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", NBC New York
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/NY_New_York_NBC/index.m3u8
-#EXTINF:0,NBC New York
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", NBC New York
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/NY_New_York_NBC/index.m3u8
-#EXTINF:0,NBC Philadelphia
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", NBC Philadelphia
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/PA_PHILADELPHIA_NBC/index.m3u8
-#EXTINF:0,NBC Pittsburgh
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", NBC Pittsburgh
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/PA_Pittsburgh_NBC/index.m3u8
-#EXTINF:0,NBC San Antonio
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", NBC San Antonio
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/TX_San_Antonio_NBC/index.m3u8
-#EXTINF:0,NBC Savannah
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", NBC Savannah
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/GA_SAVANNAH_NBC/index.m3u8
-#EXTINF:0,NBC Springfield
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", NBC Springfield
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/MA_SPRINGFIELD_NBC/index.m3u8
-#EXTINF:0,NBC Tallahassee
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", NBC Tallahassee
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/FL_Tallahassee_NBC/index.m3u8
-#EXTINF:0,NBC Tampa
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", NBC Tampa
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
-#EXTINF:0,NBC Washington DC
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", NBC Washington DC
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/DC_WASHINGTON_NBC/index.m3u8
-#EXTINF:0,NBC West Palm Beach
+#EXTINF:0 group-title="MOVEONJOY LOCAL" tvg-id="" tvg-logo="", NBC West Palm Beach
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/FL_West_Palm_Beach_NBC/index.m3u8
 
