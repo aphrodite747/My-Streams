@@ -1,11 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Jacksonville State Gamecocks vs Reinhardt Eagles" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Jacksonville State Gamecocks vs Reinhardt Eagles
+#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="Grand Slam of Darts - Day 3" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title="StreamedSU - Darts",Grand Slam of Darts - Day 3
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/eBzVYitxsRzlrfVGAgPmHtaNfEZsDoct/delta/stream/live_ncaa_jsu-reinhardt-eagles-live-streaming-423827424/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Hofstra Pride vs Molloy Lions" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Hofstra Pride vs Molloy Lions
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/MutpPKanhjLyQjtYvdPPAqJYALwVdjzf/delta/stream/live_ncaa_hofstra-molloy-lions-live-streaming-448275168/1/playlist.m3u8
+https://lb5.strmd.top/secure/hfzXysgrudChcaOtnyYEkhaaMNjaXVRv/charlie/stream/day-three-1629469343/1/playlist.m3u8
