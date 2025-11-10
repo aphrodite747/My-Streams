@@ -1,10 +1,8 @@
-# https://github.com/BuddyChewChew
+# GITHUB https://github.com/BuddyChewChew
+# DISCORD https://discord.gg/fnsWGDy2mm
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# -------------- MoveOnJoy Local --------------
-#EXTINF:-1 group-title="MoveOnJoy Local" tvg-id="Blank.Dummy.us" tvg-name="" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ MoveOnJoy Local ]
-https://jmp2.uk/stvp-CA2900005KG
 
 # -------------- MoveOnJoy Local --------------
 
@@ -333,10 +331,6 @@ http://fl1.moveonjoy.com/FL_West_Palm_Beach_NBC/index.m3u8
 
 
 
-
-# ------------------ MoveOnJoy Cable ---------------------------
-#EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ MoveOnJoy Cable ]
-https://jmp2.uk/stvp-CA2900005KG
 # ------------------ MoveOnJoy Cable ---------------------------
 
 
@@ -351,12 +345,8 @@ http://143.244.60.30/ACC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="AMC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" tvg-name="AMC", AMC
 http://143.244.60.30/AMC_NETWORK/index.m3u8
 
-
-# ---------------
-# EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f3ba" tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f3ba" tvg-name="STORIES BY AMC" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dc11bbe6b65b5884a0af6702f6b61c61.png" group-title="MoveOnJoy Cable", STORIES BY AMC
-# http://143.244.60.30/AMC_NETWORK/index.m3u8
-# ---------------
-
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f3ba" tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f3ba" tvg-name="STORIES BY AMC" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dc11bbe6b65b5884a0af6702f6b61c61.png" group-title="MoveOnJoy Cable", STORIES BY AMC
+http://143.244.60.30/AMC_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="American.Heroes.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" tvg-name="American Heroes Channel", AMERICAN HEROS CHANNEL
 http://143.244.60.30/American_Heroes_Channel/index.m3u8
