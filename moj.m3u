@@ -48,7 +48,7 @@ http://fl1.moveonjoy.com/CA_LOS_ANGELES_ABC/index.m3u8
 #EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WKOW-DT.us_locals1" tvg-logo="", ABC Madison
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/WI_MADISON_ABC/index.m3u8
-#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WSVN-DT.us_locals1" tvg-logo="", ABC Miami
+#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WSVN-DT2.us_locals1" tvg-logo="", ABC Miami
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/FL_MIAMI_ABC/index.m3u8
 #EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WEAR-DT.us_locals1" tvg-logo="", ABC Mobile
