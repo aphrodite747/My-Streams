@@ -263,7 +263,7 @@ http://fl1.moveonjoy.com/CO_Denver_NBC/index.m3u8
 #EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WDIV-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-us.png?raw=true", NBC Detroit
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/MI_Detroit_NBC/index.m3u8
-#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-us.png?raw=true", NBC Fort Wayne
+#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-us.png?raw=true", NBC Fort Wayne
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/IN_Fort_Wayne_NBC/index.m3u8
 #EXTINF:0 group-title="MoveOnJoy Local" tvg-id="KSEE-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-us.png?raw=true", NBC Fresno
