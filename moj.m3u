@@ -164,82 +164,82 @@ http://fl1.moveonjoy.com/CW_ORLANDO/index.m3u8
 #EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WTTA-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true", CW44 Tampa
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/FL_Tampa_CW44/index.m3u8
-#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="KRQE-DT2.us_locals1" tvg-logo="", FOX Albuquerque
+#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="KRQE-DT2.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX Albuquerque
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/NM_Albuquerque_FOX/index.m3u8
-#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WAGA-DT.us_locals1" tvg-logo="", FOX Atlanta
+#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WAGA-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX Atlanta
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/GA_Atlanta_FOX/index.m3u8
-#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="KTBC-DT.us_locals1" tvg-logo="", FOX Austin
+#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="KTBC-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX Austin
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/TX_AUSTIN_FOX/index.m3u8
-#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WGMB-DT.us_locals1" tvg-logo="", FOX Baton Rouge
+#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WGMB-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX Baton Rouge
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/LA_BATON_ROUGE_FOX/index.m3u8
-#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WFXT-DT.us_locals1" tvg-logo="", FOX Boston
+#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WFXT-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX Boston
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/MA_BOSTON_FOX/index.m3u8
-#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WFLD-DT.us_locals1" tvg-logo="", FOX Chicago
+#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WFLD-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX Chicago
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/IL_Chicago_FOX/index.m3u8
-#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="KDFW-DT.us_locals1" tvg-logo="", FOX Dallas
+#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="KDFW-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX Dallas
 #EXTVLCOPT:network-caching=1000
 https://fl1.moveonjoy.com/TX_Dallas_FOX/index.m3u8
-#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="KDVR-DT.us_locals1" tvg-logo="", FOX Denver
+#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="KDVR-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX Denver
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/CO_Denver_FOX/index.m3u8
-#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WJBK-DT.us_locals1" tvg-logo="", FOX Detroit
+#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WJBK-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX Detroit
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/MI_Detroit_FOX/index.m3u8
-#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="KRIV-DT.us_locals1" tvg-logo="", FOX Houston
+#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="KRIV-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX Houston
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/TX_Houston_FOX/index.m3u8
-#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WXIN-DT.us_locals1" tvg-logo="", FOX Indianapolis
+#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WXIN-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX Indianapolis
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/IN_Indianapolis_FOX/index.m3u8
-#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WFOX-DT.us_locals1" tvg-logo="", FOX Jacksonville
+#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WFOX-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX Jacksonville
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/FL_Jacksonville_FOX/index.m3u8
-#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WTNZ-DT.us_locals1" tvg-logo="", FOX Knoxville
+#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WTNZ-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX Knoxville
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/TN_Knoxville_FOX/index.m3u8
-#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="KVVU-DT.us_locals1" tvg-logo="", FOX Las Vegas
+#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="KVVU-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX Las Vegas
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/NV_LAS_VEGAS_FOX/index.m3u8
-#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WDRB-DT.us_locals1" tvg-logo="", FOX Louisville
+#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WDRB-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX Louisville
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/KY_Louisville_FOX/index.m3u8
-#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WHBQ-DT.us_locals1" tvg-logo="", FOX Memphis
+#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WHBQ-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX Memphis
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/TN_Memphis_FOX/index.m3u8
-#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WSVN-DT.us_locals1" tvg-logo="", FOX Miami
+#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WSVN-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX Miami
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/FL_Miami_FOX/index.m3u8
-#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WALA-DT.us_locals1" tvg-logo="", FOX Mobile
+#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WALA-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX Mobile
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/AL_MOBILE_FOX/index.m3u8
-#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WZTV-DT.us_locals1" tvg-logo="", FOX Nashville
+#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WZTV-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX Nashville
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/TN_Nashville_FOX/index.m3u8
-#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WOFL-DT.us_locals1" tvg-logo="", FOX Orlando
+#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WOFL-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX Orlando
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/FL_ORLANDO_FOX/index.m3u8
-#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WTXF-DT.us_locals1" tvg-logo="", FOX Philadelphia
+#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WTXF-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX Philadelphia
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/PA_PHILADELPHIA_FOX/index.m3u8
-#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="KABB-DT.us_locals1" tvg-logo="", FOX San Antonio
+#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="KABB-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX San Antonio
 #EXTVLCOPT:network-caching=1000
 https://fl1.moveonjoy.com/TX_San_Antonio_FOX/index.m3u8
-#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="KCPQ-DT.us_locals1" tvg-logo="", FOX Seattle
+#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="KCPQ-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX Seattle
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/WA_SEATTLE_FOX/index.m3u8
-#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WTVT-DT.us_locals1" tvg-logo="", FOX Tampa
+#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WTVT-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX Tampa
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/FL_Tampa_Fox/index.m3u8
-#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WTTG-DT.us_locals1" tvg-logo="", FOX Washington DC
+#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WTTG-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX Washington DC
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/DC_WASHINGTON_FOX/index.m3u8
-#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WFLX-DT.us_locals1" tvg-logo="", FOX West Palm
+#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WFLX-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX West Palm
 #EXTVLCOPT:network-caching=1000
 https://fl1.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8
 #EXTINF:0 group-title="MoveOnJoy Local" tvg-id="KOB-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-us.png?raw=true", NBC Albuquerque
