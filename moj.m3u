@@ -158,10 +158,10 @@ http://fl1.moveonjoy.com/AZ_TUCSON_CBS/index.m3u8
 #EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WPEC-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true", CBS West Palm Beach
 #EXTVLCOPT:network-caching=1000
 https://fl1.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8
-#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WKCF-DT.us_locals1" tvg-logo="", CW Orlando
+#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WKCF-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true", CW Orlando
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/CW_ORLANDO/index.m3u8
-#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WTTA-DT.us_locals1" tvg-logo="", CW44 Tampa
+#EXTINF:0 group-title="MoveOnJoy Local" tvg-id="WTTA-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true", CW44 Tampa
 #EXTVLCOPT:network-caching=1000
 http://fl1.moveonjoy.com/FL_Tampa_CW44/index.m3u8
 #EXTINF:0 group-title="MoveOnJoy Local" tvg-id="KRQE-DT2.us_locals1" tvg-logo="", FOX Albuquerque
