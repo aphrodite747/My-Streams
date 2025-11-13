@@ -1,16 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Nitto ATP Finals: De Minaur vs Fritz - (Men's Singles)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",Nitto ATP Finals: De Minaur vs Fritz - (Men's Singles)
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="LPGA Tour: The Annika, First Round" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="StreamedSU - Golf",LPGA Tour: The Annika, First Round
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/XLhcyvptrEKbogUoGExHVYcvWkrQzALE/charlie/stream/de-minaur-vs-fritz-mens-singles-1629470676/1/playlist.m3u8
+https://lb3.strmd.top/secure/JCgZjzshGCzOjWBEmPXufqfSFmmcAdYb/charlie/stream/the-annika-first-round-1629469429/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="The ANNIKA driven by Gainbridge at Pelican	| LPGA Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",The ANNIKA driven by Gainbridge at Pelican	| LPGA Tour
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/TYuyLaaHGaLMkGAbHGiyplUapwxDNwoV/echo/stream/the-annika-driven-by-gainbridge-at-pelican-lpga-tour-game-162626/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Sri Lanka tour of Pakistan: Pakistan vs Sri Lanka" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQLXiHmn+MYHia0qYFgh1chta+TD3gKoRCA.webp" group-title="StreamedSU - Cricket",Sri Lanka tour of Pakistan: Pakistan vs Sri Lanka
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/DQqQYmZBSlVQitFqQwbmHiYCfIEtSRLU/charlie/stream/pakistan-vs-sri-lanka-1629467912/1/playlist.m3u8
+https://lb1.strmd.top/secure/wIzpZqvigcjYvNAxkwQcPpuMzdZJPsqD/charlie/stream/pakistan-vs-sri-lanka-1629467912/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Riyadh Season Horse Racing: Riyadh Racing Season Race Night 5" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Riyadh Season Horse Racing: Riyadh Racing Season Race Night 5
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/MdlHdpmuetllcaMvCYmRCGAdyCxYeELX/charlie/stream/riyadh-racing-season-race-night-5-1629469428/1/playlist.m3u8
+https://lb3.strmd.top/secure/nREKuyGfxmAcdaQkPIGtyKZFPSmjoHSl/charlie/stream/riyadh-racing-season-race-night-5-1629469428/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ATP Finals: Turin " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",ATP Finals: Turin 
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/IZgevcBDnkkCZelenVyiBuYPWtMbhCtB/echo/stream/atp-finals-turin-atp-2025/1/playlist.m3u8
