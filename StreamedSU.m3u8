@@ -1,66 +1,71 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Cairns Taipans vs South East Melbourne" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Cairns Taipans vs South East Melbourne
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/nWpLtzhtTYmKpZMMNGeebHtSnUyoBruo/alpha/stream/cairns-taipans-vs-south-east-melbourne/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Adelaide Strikers W vs Melbourne Renegades W" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",Adelaide Strikers W vs Melbourne Renegades W
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/ZmdPLTDflPQqzYmzvZSXpJHlGAOPQPLd/alpha/stream/adelaide-strikers-w-vs-melbourne-renegades-w/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Adelaide W vs Canberra W" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Adelaide W vs Canberra W
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/OobUBxnZFhCbHezgXYkFbfclqeJRFBCk/alpha/stream/adelaide-w-vs-canberra-w/1/playlist.m3u8
+https://lb2.strmd.top/secure/ehQTCIWmrzwdMECLkAqiHzHyjdiPitSt/alpha/stream/adelaide-strikers-w-vs-melbourne-renegades-w/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="MotoGP Valencia GP: Moto3 FP1" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",MotoGP Valencia GP: Moto3 FP1
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/AlTfndgJmclAjuemjUDMnBHvyrHWCWHA/alpha/stream/motogp-valencia-gp-moto3-fp1/1/playlist.m3u8
+https://lb2.strmd.top/secure/abzJAJoMxoCVyTvFYZPkqXyQVYWWlHlM/alpha/stream/motogp-valencia-gp-moto3-fp1/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Adelaide W vs Canberra W" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIbIRz8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp" group-title="StreamedSU - Football",Adelaide W vs Canberra W
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/oJfiMVjrqBlyRwKIWNkCQLXflPdszytb/alpha/stream/adelaide-w-vs-canberra-w/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="European PGA Tour: DP World Tour Championship, Second Round" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="StreamedSU - Golf",European PGA Tour: DP World Tour Championship, Second Round
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/lCdbuAmLtFnzQrCxWFDBEZgTCPBKufDF/charlie/stream/dp-world-tour-championship-second-round-1629469453/1/playlist.m3u8
+https://lb4.strmd.top/secure/rabvTkXBDiFceGDywPDoUWjcTakKTxTP/charlie/stream/dp-world-tour-championship-second-round-1629469453/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Storm Hunter/Ellen Perez vs Matilde Jorge/Francisca Jorge" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",Storm Hunter/Ellen Perez vs Matilde Jorge/Francisca Jorge
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/RkssluOszUKvxSyQbxlosezWckldIDEL/alpha/stream/storm-hunter-ellen-perez-vs-matilde-jorge-francisca-jorge/1/playlist.m3u8
+https://lb3.strmd.top/secure/iPaLQIusrmKtAoKOaVTOjdheSvLfOjUu/alpha/stream/storm-hunter-ellen-perez-vs-matilde-jorge-francisca-jorge/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="DP World Tour Championship - Rd 2" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="StreamedSU - Golf",DP World Tour Championship - Rd 2
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/WfHNCHmzUICKchdvSVFhgnSqrrGoNGIJ/alpha/stream/dp-world-tour-championship-rd-2/1/playlist.m3u8
+https://lb3.strmd.top/secure/fjjbXrMaviWylskJcmzPSboyCjZJqPWX/alpha/stream/dp-world-tour-championship-rd-2/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Geelong United W vs Southside W" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Geelong United W vs Southside W
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/VPOYUdNpUuhLvjdTLkZUQfdyJZSkmHTk/alpha/stream/geelong-united-w-vs-southside-w/1/playlist.m3u8
+https://lb7.strmd.top/secure/nIlSGMcsqkuSKUrlSnfMdBfgjNFVczEi/alpha/stream/geelong-united-w-vs-southside-w/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Tokomanawa Queens W vs Northern Kahu W" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Tokomanawa Queens W vs Northern Kahu W
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/fskZeSXUkQrpnQipRfEgrxKFdNSKflZs/alpha/stream/tokomanawa-queens-w-vs-northern-kahu-w/1/playlist.m3u8
+https://lb7.strmd.top/secure/OYSUfiCcVRvPJZqLtEoNQhYklUdJmEEy/alpha/stream/tokomanawa-queens-w-vs-northern-kahu-w/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Pakistan A vs Oman" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",Pakistan A vs Oman
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/NGDGoTlFMlKQiNNEXrlKSZprPSKtDaEO/alpha/stream/pakistan-a-vs-oman/1/playlist.m3u8
+https://lb4.strmd.top/secure/CIbmclhptXhtTXErUGFwbbGJxjqFBEpQ/alpha/stream/pakistan-a-vs-oman/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Joint Maya vs Jorge Francisca" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",Joint Maya vs Jorge Francisca
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/BDskswLVfWbtihZyLHCATgVtgDgIwqWf/alpha/stream/joint-maya-vs-jorge-francisca/1/playlist.m3u8
+https://lb4.strmd.top/secure/WCFZueQXgphDrWzEcoweyqwfboPYJAoG/alpha/stream/joint-maya-vs-jorge-francisca/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Melbourne Stars W vs Perth Scorchers W" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",Melbourne Stars W vs Perth Scorchers W
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/QHmdJOSskileaOfDVabibHkBiQGuELnU/alpha/stream/melbourne-stars-w-vs-perth-scorchers-w/1/playlist.m3u8
+https://lb2.strmd.top/secure/ansubLaNMyxdCuUQAwMqyFDWjNcrrTjm/alpha/stream/melbourne-stars-w-vs-perth-scorchers-w/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="India vs South Africa" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",India vs South Africa
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/xzObirNelOOzWiplumHiBGJzrKgIqsUc/alpha/stream/india-vs-south-africa/1/playlist.m3u8
+https://lb4.strmd.top/secure/TSIwdrDVHnbGVpQeknQVURNGpMXbbegT/alpha/stream/india-vs-south-africa/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Billie Jean King Cup: Portugal vs Australia" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQHHPxjA8TWlTAsEOrkNoXyYG8BVCIQA.webp" group-title="StreamedSU - Tennis",Billie Jean King Cup: Portugal vs Australia
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/AAfoIbRMZrHKWHIvXHvPEhPKHCfxYVLB/charlie/stream/portugal-vs-australia-1629470688/1/playlist.m3u8
+https://lb3.strmd.top/secure/jVgpTaLiPrtzKbaEDfcbqGDtGFdGlmwE/charlie/stream/portugal-vs-australia-1629470688/1/playlist.m3u8
