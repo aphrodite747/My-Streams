@@ -1,106 +1,116 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Poland U21 vs Italy U21" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Poland U21 vs Italy U21
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Poland U21 vs Italy U21" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATEAN5MwGkNzW6cKEBBDHjps4RjAmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - Football",Poland U21 vs Italy U21
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/jnxYdTvdJgwwhCYFesnRmxrNsQzjdDFW/alpha/stream/poland-u21-vs-italy-u21/1/playlist.m3u8
+https://lb2.strmd.top/secure/OWfKuATXldFUcDBpncFvNuNafDhPtPJG/alpha/stream/poland-u21-vs-italy-u21/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Dubai vs Zalgiris Kaunas" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Dubai vs Zalgiris Kaunas
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/DjuDFifagezgjBHLSlfHcklqknPEXIra/alpha/stream/dubai-vs-zalgiris-kaunas/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Angola vs Argentina" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Angola vs Argentina
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/FUFhUESwtRtMbEvbRrfzKRppIOvgpBXH/alpha/stream/angola-vs-argentina/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="LPGA Tour: The Annika, Second Round" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="StreamedSU - Golf",LPGA Tour: The Annika, Second Round
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/TbbtjAittebtljLBPnGqsTuwEQIRkEIq/charlie/stream/the-annika-second-round-1629469465/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="The ANNIKA driven by Gainbridge at Pelican	| LPGA Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",The ANNIKA driven by Gainbridge at Pelican	| LPGA Tour
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/ZRZQWqMluzPVRTQtGaKdqeQESyTefasc/echo/stream/the-annika-driven-by-gainbridge-at-pelican-lpga-tour-game-162626/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="USA U17 vs Morocco U17" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",USA U17 vs Morocco U17
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/BNOHASvqRtgxcDOKXdbsiBcDrTdmVPNO/alpha/stream/usa-u17-vs-morocco-u17/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="The ANNIKA- Rd 2" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="StreamedSU - Golf",The ANNIKA- Rd 2
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/RQCiiOCqeqyQNoKbDpZKdtEudvFpCrLO/alpha/stream/the-annika-rd-2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Argentina U17 vs Mexico U17" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Argentina U17 vs Mexico U17
+https://lb2.strmd.top/secure/rwPZubonvLSRTlaOKqHyywPlIaxUhJkv/alpha/stream/the-annika-rd-2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Argentina U17 vs Mexico U17" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIDiBY4c-GMDxNaVMCwQ6uQ2jfJgHwFUIhA.webp" group-title="StreamedSU - Football",Argentina U17 vs Mexico U17
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/dbIRyriEkTKGEoZNxqLDrxiQbAyJETOg/alpha/stream/argentina-u17-vs-mexico-u17/1/playlist.m3u8
+https://lb2.strmd.top/secure/xwBYbjhEGyhfwexvbDbTcshrXhAHSpHA/alpha/stream/argentina-u17-vs-mexico-u17/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="France U17 vs Colombia U17" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIGSBCgQEdSD46QiFCBj6QakiGWEYwJnxRcwZeEXminTWmBdjREEA.webp" group-title="StreamedSU - Football",France U17 vs Colombia U17
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/XeuLYuFqPOwDehxpduWMGXOcziriqAhp/alpha/stream/france-u17-vs-colombia-u17/1/playlist.m3u8
+https://lb7.strmd.top/secure/GmHodBTmKblixkpYOIcnuwJfrVxMVdhH/alpha/stream/france-u17-vs-colombia-u17/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Egypt vs Algeria" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpizU+saihDcQEECX26QAExAxc2kCAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - Football",Egypt vs Algeria
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/ozzcrxjTblBvbKyVdvWbKgWHfGiVcguR/alpha/stream/uzbekistan-vs-egypt/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Switzerland U17 vs Egypt U17" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMIbiEQkQAExAR1IPvpPaNZ3OoIUmfFFzBl4ReaPtNaYR2NEQgA.webp" group-title="StreamedSU - Football",Switzerland U17 vs Egypt U17
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/BDNcKsyAaxxTWxgTlwRkfnJALHGoYZlu/charlie/stream/switzerland-u17-vs-egypt-u17-1629469458/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Germany W vsTurkey W" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",Germany W vsTurkey W
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/nhUrKhdSmWEndWTKOVVVstbsbWiugMoY/alpha/stream/germany-w-vsturkey-w/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Poland W vs New Zealand W" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",Poland W vs New Zealand W
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/mpWZUwVkLqMIlEsWYOZSPordFwcWlWDZ/alpha/stream/poland-w-vs-new-zealand-w/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Slovakia W vs Argentina W" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",Slovakia W vs Argentina W
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/FnzdxCKklTMRzCjLHdYSswxTBHIMtmFs/alpha/stream/slovakia-w-vs-argentina-w/1/playlist.m3u8
+https://lb9.strmd.top/secure/pYHPLIKVnUabyIGVuMlQVHqeYJSxTmnG/charlie/stream/switzerland-u17-vs-egypt-u17-1629469458/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="MotoGP Valencia GP: MotoGP FP2" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",MotoGP Valencia GP: MotoGP FP2
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/cCNhGHxgfRZaSCCaFVWUqcQwfJnOeyuy/alpha/stream/motogp-valencia-gp-motogp-fp2/1/playlist.m3u8
+https://lb9.strmd.top/secure/NUSfhVeSwqBQopPYVpXZQAwmZsuydCSq/alpha/stream/motogp-valencia-gp-motogp-fp2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Nitto ATP Finals: Jannik Sinner vs Ben Shelton - (Men's Singles)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",Nitto ATP Finals: Jannik Sinner vs Ben Shelton - (Men's Singles)
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/wZODPegAJOIrykYaiuRFkXnNkzVqgYyY/charlie/stream/jannik-sinner-vs-ben-shelton-mens-singles-1629470679/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Billie Jean King Cup: Colombia vs Czechia" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQhIzn4xgeJrSpgWCHVyG1L5MLeAqhEIA.webp" group-title="StreamedSU - Tennis",Billie Jean King Cup: Colombia vs Czechia
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/CDbzAfwqAXLoKNlSpsBUGWpXGFlBuMOj/charlie/stream/colombia-vs-czech-republic-1629470687/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="UFC 322: Official Weigh-In Show" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",UFC 322: Official Weigh-In Show
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/SgUgRRlxPGmfvdduJutrGpQfkYsZyxZv/alpha/stream/ufc-322-official-weigh-in-show/1/playlist.m3u8
+https://lb4.strmd.top/secure/ibPcrFveDiEUfXuGmNHnuIoJuceRtmST/alpha/stream/ufc-322-official-weigh-in-show/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="ONE Friday Fights 133 Pompet vs Thom" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",ONE Friday Fights 133 Pompet vs Thom
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/syolQAHgneafhUSZtzZVrXaErNqYWTxX/alpha/stream/one-friday-fights-133/1/playlist.m3u8
+https://lb8.strmd.top/secure/CKRsQoQRTqOzfXbmMAXzvFEXxyIfQpGZ/alpha/stream/one-friday-fights-133/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Portugal U17 vs Belgium U17" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBKwKLrQAMIbqpCI9KECYAm+83wIUmVrmDLwi80Rqa0wDsaIhA.webp" group-title="StreamedSU - Football",Portugal U17 vs Belgium U17
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/fnKBWgMSbuNEWsOnhUorBwirEEPhEeAt/alpha/stream/portugal-u17-vs-belgium-u17/1/playlist.m3u8
+https://lb10.strmd.top/secure/bxufqesAQKEbCkbTiHnSBOGsHOZtFCPS/charlie/stream/portugal-u17-vs-belgium-u17-1629469456/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Zambia U17 vs Mali U17" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplq9CZJGG4htfEIm0wQRwzpAATAhSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title="StreamedSU - Football",Zambia U17 vs Mali U17
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/FTPeYuytThhojAVyExzzAWswgoYdJrVS/charlie/stream/zambia-u17-vs-mali-u17-1629469457/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Turin Inalpi Arena: Jannik Sinner vs Ben Shelton" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",Turin Inalpi Arena: Jannik Sinner vs Ben Shelton
+https://lb9.strmd.top/secure/pHaiiEAvnIfzwdfkoWBaJPzxtlhvqnAh/charlie/stream/zambia-u17-vs-mali-u17-1629469457/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Riyadh Season Horse Racing: Prince Mohd. Ben Saud Alkabeer Cup Race Night" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Riyadh Season Horse Racing: Prince Mohd. Ben Saud Alkabeer Cup Race Night
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/jrZcutVAffJPXNkhnZgzyKpggLXkczlw/alpha/stream/turin-inalpi-arena-jannik-sinner-vs-ben-shelton/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Czech Republic W vs Colombia W" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",Czech Republic W vs Colombia W
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/pSBlAihYkRFnuiaNnOPCIFevhYZfriRc/alpha/stream/czech-republic-w-vs-colombia-w/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Prince Mohd. Ben Saud Alkabeer Cup Race Night" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Prince Mohd. Ben Saud Alkabeer Cup Race Night
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/yyMBktweUUUKMfcWniKcJKuAQtfdIJtp/alpha/stream/prince-mohd-ben-saud-alkabeer-cup-race-night/1/playlist.m3u8
+https://lb2.strmd.top/secure/yYsCnvSIYXUkUQLkFutKdBAGgnZSBZTN/charlie/stream/prince-mohd-ben-saud-alkabeer-cup-race-night-1629469460/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ATP Finals: Turin " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",ATP Finals: Turin 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/JKgJXizgmSsEjJZNxSkgFcSROhugCypO/echo/stream/atp-finals-turin-atp-2025/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="India A vs United Arab Emirates" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",India A vs United Arab Emirates
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/zgqYqxdIwKNScJpZGPvjCxPeVoHypwFZ/alpha/stream/india-a-vs-united-arab-emirates/1/playlist.m3u8
+https://lb5.strmd.top/secure/pniSbGdDqyqNATsjwromUmHhBVkcBLVJ/echo/stream/atp-finals-turin-atp-2025/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Eternal MMA 100" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",Eternal MMA 100
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/eaFlzAQgnNeqblFQVNiLEZqFlhcQumUI/alpha/stream/eternal-mma-100/1/playlist.m3u8
+https://lb9.strmd.top/secure/SMifGIbCTZZErcKuacqRzUNVrleQQXUa/alpha/stream/eternal-mma-100/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Pakistan vs Sri Lanka" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",Pakistan vs Sri Lanka
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/yeqDMGLORiTqNnbPFelchMTjaAESDeND/alpha/stream/pakistan-vs-sri-lanka/1/playlist.m3u8
+https://lb9.strmd.top/secure/rhFkVaEhPafEFFCuurwdcHnHdaThNDfk/alpha/stream/pakistan-vs-sri-lanka/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="MotoGP Grand Prix of Valencia  " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",MotoGP Grand Prix of Valencia  
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/jKtVCGyUySuumbAbQSNDuuiGeHWGweLy/echo/stream/motogp-grand-prix-of-valencia-motogp-1/1/playlist.m3u8
+https://lb10.strmd.top/secure/PgjYuglHbsTORTpWroZQYWVOWOBkYidt/echo/stream/motogp-grand-prix-of-valencia-motogp-1/1/playlist.m3u8
