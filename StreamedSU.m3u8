@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Women's Big Bash League: Perth Scorchers vs Melbourne Stars" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",Women's Big Bash League: Perth Scorchers vs Melbourne Stars
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/zYoRGlZMyGuNyGTWHcgEpFHojVLXpvcZ/charlie/stream/perth-scorchers-vs-melbourne-stars-1629467913/1/playlist.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Vegas Golden Knights vs New York Islanders" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3C98IDSRDdtIACa6UILYgN9dEAhSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title="StreamedSU - Hockey",Vegas Golden Knights vs New York Islanders
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -9,73 +14,13 @@ https://gg.poocloud.in/vegasgoldenknights/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/seattlekraken/index.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Kansas State vs California" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphjAAJmBAgUlMNxD6SWgyBjG+uEGpDwCFJnx1swZeEXmidTWmBdjREEA.webp" group-title="StreamedSU - Basketball",Kansas State vs California
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/awpvxPCgJIHbhZCyPrXcAIoCjgkrXqBU/delta/stream/live_ncaa_kansas-st-california-live-streaming-451207584/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Phoenix Suns vs Indiana Pacers" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIFcCRgk-NiG4gSIGCER8QEfSGs4JhGMCZ8UXMGXhF5ol01pg3YqIQQA.webp" group-title="StreamedSU - Basketball",Phoenix Suns vs Indiana Pacers
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/nba_phoenixsuns/index.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Utah Jazz vs Atlanta Hawks" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm4haWMCBAATEBBCrdiEiBg6QfPSBQhlhGMCZ8UXMGXhF5ol01pg3YqIQQA.webp" group-title="StreamedSU - Basketball",Utah Jazz vs Atlanta Hawks
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/nba_utahjazz/index.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Calgary Flames vs San Jose Sharks" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhRKEHxDat3ECRAQQAExB6NiGCCvGCFJnxRc15evPXAmtMGrGiIQA.webp" group-title="StreamedSU - Hockey",Calgary Flames vs San Jose Sharks
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/calgaryflames/index.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Colorado Avalanche vs Buffalo Sabres" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC1QtJKFghuIACY6QKECVX7zp5YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - Hockey",Colorado Avalanche vs Buffalo Sabres
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/coloradoavalanche/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Nicaragua vs Honduras" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gyJEPQAmsENxB89IYxCOJD+lAQpM+KLmvL15o+01pg1Y0RCA.webp" group-title="StreamedSU - Football",Nicaragua vs Honduras
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/ZBAFPDJJMyIoVkfwRiOyaWcOzXOHiFEo/alpha/stream/nicaragua-vs-honduras/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Guatemala vs Panama" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh27kYuZsAAMIbiD66QJECYggU+kOpgEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Football",Guatemala vs Panama
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/mZIYIhSOAoLwzCKPZPWYIagXzVoYokeL/alpha/stream/guatemala-vs-panama/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Haiti vs Costa Rica" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyzlEKEDB4huIACYhEfECYiadIEjoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - Football",Haiti vs Costa Rica
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/ABUKIyAxSxQMVIzlhmxhLLHsSUPKKIeV/alpha/stream/haiti-vs-costa-rica/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Myanmar and Timor-Leste tour of Indonesia: Timor-Leste vs Myanmar" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIFsZDz+MYHia0qYFgh1chta+TD3gKoRCA.webp" group-title="StreamedSU - Cricket",Myanmar and Timor-Leste tour of Indonesia: Timor-Leste vs Myanmar
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/bLRZVfyxYXAIGnOkMGwcvEdARQWrBrSF/charlie/stream/timor-leste-vs-myanmar-1629469450/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="New England Patriots vs New York Jets" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3BIQKXJTohuIACYgYIPupAkQiCPuMEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - American Football",New England Patriots vs New York Jets
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/primenextgen/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Guadalajara Chivas W vs Club America W" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Guadalajara Chivas W vs Club America W
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/cjUQSncJgpejdQveriRkxrJuakbEQLNz/alpha/stream/guadalajara-chivas-w-vs-club-america-w/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Billie Jean King Cup: Portugal vs Australia" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQHHPxjA8TWlTAsEOrkNoXyYG8BVCIQA.webp" group-title="StreamedSU - Tennis",Billie Jean King Cup: Portugal vs Australia
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/rGPiYEXSDSYqaETWwKSLiLPtOxEJcPvh/charlie/stream/portugal-vs-australia-1629470688/1/playlist.m3u8
+https://lb2.strmd.top/secure/jwyVqNDBMbewMLvIYJiLZDSaZEXkxsrM/charlie/stream/portugal-vs-australia-1629470688/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="Old Dominion vs Troy" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxQhuFdQMTcQJEABMQEEIkSGQuiwQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - American Football",Old Dominion vs Troy
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/QdltRTaugJgvNGSbnnoGeNIjcfcXdVil/alpha/stream/troy-vs-old-dominion/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Columbus Blue Jackets vs Edmonton Oilers" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjLhw8MCjB8Q3EBFy6QAEyMh9hkAQpM+KLmDIb680faa0wjsaIhA.webp" group-title="StreamedSU - Hockey",Columbus Blue Jackets vs Edmonton Oilers
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/keUSafLkLQJFRdtZWudGwoqWNXfqNvAr/alpha/stream/columbus-blue-jackets-vs-edmonton-oilers/1/playlist.m3u8
+https://lb5.strmd.top/secure/RXTVuDIZtzVpKezbCQiWdlFouibztfXl/alpha/stream/troy-vs-old-dominion/1/playlist.m3u8
