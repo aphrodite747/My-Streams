@@ -1,91 +1,101 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Perth Wildcats vs New Zealand Breakers" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCrEMVaoYhuIPrhAkQKPZqOq+BCk0tcwZeEXmiUwJrTD2xoiEA.webp" group-title="StreamedSU - Basketball",Perth Wildcats vs New Zealand Breakers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/ddwQoaecCJAVcAVOhGPjyJDUJkyfwgUj/alpha/stream/perth-vs-new-zealand-breakers/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Eternal MMA 101" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",Eternal MMA 101
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/GecYmeGrEhMahWMrVazBwmdvFKNvYFoI/alpha/stream/eternal-mma-101/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="PDC ANZ Premier League: Night 7" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title="StreamedSU - Darts",PDC ANZ Premier League: Night 7
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/LPqBncudOtZGImFnXeKlGnhFBOrLavRr/charlie/stream/night-7-1629470000/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="AFC Women's Champions League: Suwon vs Tokyo Verdy Beleza" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIeSGwspBGMDxNaVMCwQ6uQ2jfJgHwFUIhA.webp" group-title="StreamedSU - Football",AFC Women's Champions League: Suwon vs Tokyo Verdy Beleza
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/DQJADVqUGGMuVVeIRHgvXcQjDPLGBKKw/charlie/stream/suwon-vs-tokyo-verdy-beleza-w-1629469999/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="MotoGP Valencia GP: MotoGP FP3" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",MotoGP Valencia GP: MotoGP FP3
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/MKCGUqagmiLRbtyHYyLmWiVKnSUJKZjL/alpha/stream/motogp-valencia-gp-motogp-fp3/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Women's Big Bash League: Sydney Thunder vs Sydney Sixers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",Women's Big Bash League: Sydney Thunder vs Sydney Sixers
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/MuNumCDVkLQtbCukOTGAcqYKrKNXovMZ/charlie/stream/sydney-thunder-vs-sydney-sixers-1629467916/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Perth vs New Zealand Breakers" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Perth vs New Zealand Breakers
+https://lb6.strmd.top/secure/yuJIycEuFsoGvcixnFqqZNFvqCBvxAzy/charlie/stream/sydney-thunder-vs-sydney-sixers-1629467916/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Z-Fight Night 3" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",Z-Fight Night 3
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/sJhVVFGpXoAelVQkTeZTeSsUXBmckSkF/alpha/stream/perth-vs-new-zealand-breakers/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="AFL Premiership Football: Carlton Blues vs Hawthorn Hawks" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCAgMzvEIRCTJ9S4ZzXOIN28b3bwji5YghRHMAExwpbBR+GGA8PTowFgVzSSFaWPIwBOBzIQggA.webp" group-title="StreamedSU - Football",AFL Premiership Football: Carlton Blues vs Hawthorn Hawks
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/yEmcCOGelMGKaAgyqvgnRuCkXlyZaims/charlie/stream/carlton-blues-vs-hawthorn-hawks-1629469998/1/playlist.m3u8
+https://lb6.strmd.top/secure/xeTskMcWLmeDuxQVBYHjpMkyOnCOQTmM/alpha/stream/z-fight-night-3/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Macau Grand Prix: FIA FR World Cup - Qualifying Race" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",Macau Grand Prix: FIA FR World Cup - Qualifying Race
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/pisEZbwxsoWLfeCQgnnUPxWJZSGprXnX/charlie/stream/fia-fr-world-cup-qualifying-race-1629470396/1/playlist.m3u8
+https://lb10.strmd.top/secure/MRYGPCaEBitCzewVeVfALBkQdOJRmwsd/charlie/stream/fia-fr-world-cup-qualifying-race-1629470396/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="AFL Premiership Football: Carlton Blues vs Hawthorn Hawks" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCAgMzvEIRCTJ9S4ZzXOIN28b3bwji5YghRHMAExwpbBR+GGA8PTowFgVzSSFaWPIwBOBzIQggA.webp" group-title="StreamedSU - Football",AFL Premiership Football: Carlton Blues vs Hawthorn Hawks
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/aUDOWgNRsOYiJMOqEXLfGjILGnXGQFmM/charlie/stream/carlton-blues-vs-hawthorn-hawks-1629469998/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Suwon FC W vs Beleza W" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Suwon FC W vs Beleza W
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/AZgjHWkcSohQGlRrEwqHNjGkBhFBQDlI/alpha/stream/suwon-fc-w-vs-beleza-w/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="MotoGP Grand Prix of Valencia  " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",MotoGP Grand Prix of Valencia  
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/wYTOVDhbbXOWvUdkghBAtouVZqyDmXyL/echo/stream/motogp-grand-prix-of-valencia-motogp-1/1/playlist.m3u8
+https://lb9.strmd.top/secure/YsvVbISNRUoDCqosvsfbffBwoiTctejl/alpha/stream/suwon-fc-w-vs-beleza-w/1/playlist.m3u8
 #EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Hawthorn Hawks W vs Carlton Blues W" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Afl",Hawthorn Hawks W vs Carlton Blues W
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/nzAjREDNmsHrniylLklmXHEfblkAPyxS/alpha/stream/hawthorn-hawks-w-vs-carlton-blues-w/1/playlist.m3u8
+https://lb9.strmd.top/secure/IPklQtfnJppTOXzkhyrhYLYjMFxMQWmM/alpha/stream/hawthorn-hawks-w-vs-carlton-blues-w/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Sydney Thunder W vs Sydney Sixers W" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",Sydney Thunder W vs Sydney Sixers W
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/EzMQHKsbVAYCHZAxVxDuRwvgePcVuVSR/alpha/stream/sydney-thunder-w-vs-sydney-sixers-w/1/playlist.m3u8
+https://lb10.strmd.top/secure/bNzTXjZTLASMNezppIranTljlVBEhsgm/alpha/stream/sydney-thunder-w-vs-sydney-sixers-w/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Townsville W vs Adelaide Lightning W" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Townsville W vs Adelaide Lightning W
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/xMLGQMPseHCgClcXmFakMUVdzpEDwBzv/alpha/stream/townsville-w-vs-adelaide-lightning-w/1/playlist.m3u8
+https://lb10.strmd.top/secure/MvODeLkfuKwpKAJUBVMzEsJZjphdBcZu/alpha/stream/townsville-w-vs-adelaide-lightning-w/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="ANZ PL Darts: Gold Coast" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title="StreamedSU - Darts",ANZ PL Darts: Gold Coast
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/WXQXykCdYKOtfFYWiPBMeiXhdlSupkxY/alpha/stream/anz-pl-darts-gold-coast/1/playlist.m3u8
+https://lb1.strmd.top/secure/gAeEVGoNubdihokgywRLfFkcoXytEtwn/alpha/stream/anz-pl-darts-gold-coast/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="European PGA Tour: DP World Tour Championship, Third Round" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="StreamedSU - Golf",European PGA Tour: DP World Tour Championship, Third Round
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/FcJdnLqJDGwawBAkNDzEWjQrOKoGgXeE/charlie/stream/dp-world-tour-championship-third-round-1629469997/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="MotoGP Valencia GP: Moto3 FP3" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",MotoGP Valencia GP: Moto3 FP3
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/zuGMDxpjDEZBwRUCyOGEwBPRBeZBptpy/alpha/stream/motogp-valencia-gp-moto3-fp3/1/playlist.m3u8
+https://lb10.strmd.top/secure/CXasfBCsmQnXJwRcqJSnhbtTjRcyDsdB/charlie/stream/dp-world-tour-championship-third-round-1629469997/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Melbourne United vs Brisbane Bullets" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplFYwSUsEI5uIEiAh6QxgCYg+IGJcsEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Basketball",Melbourne United vs Brisbane Bullets
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/EmuYsnZBbnouzfasjWYwVpUlSIhNJElP/alpha/stream/melbourne-united-vs-brisbane-bullets/1/playlist.m3u8
+https://lb1.strmd.top/secure/CHoFtAbHmxLuHvmIXLGzhRKSMgRQgvHv/alpha/stream/melbourne-united-vs-brisbane-bullets/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="DP World Tour Championship - Rd 3" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="StreamedSU - Golf",DP World Tour Championship - Rd 3
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/VCptwprjziiLWrXMKSEyXgEwYnLJDinI/alpha/stream/dp-world-tour-championship-rd-3/1/playlist.m3u8
+https://lb5.strmd.top/secure/BTnnnWcLMULDUJVugMmGjIlEaDZEnMJm/alpha/stream/dp-world-tour-championship-rd-3/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Bangladesh A vs Hong Kong China" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",Bangladesh A vs Hong Kong China
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/oTzlwvOywCBGDitWumRchfCcqUDBuFgh/alpha/stream/bangladesh-a-vs-hong-kong-china/1/playlist.m3u8
+https://lb10.strmd.top/secure/ktVqVuckeihoEIPVpKEWRAaKYgBXydie/alpha/stream/bangladesh-a-vs-hong-kong-china/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Rugby Africa Women's Sevens 2025 | Day 1" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title="StreamedSU - Rugby",Rugby Africa Women's Sevens 2025 | Day 1
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/nQqaqaQljlCKFRsbdNWECBXmumcLhyaW/alpha/stream/rugby-africa-women-s-sevens-2025-day-1/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Women's Big Bash League: Hobart Hurricanes vs Brisbane Heat" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",Women's Big Bash League: Hobart Hurricanes vs Brisbane Heat
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/FwIoCdSZROLYPwEZMXOltXHmmRchNWYv/charlie/stream/hobart-hurricanes-vs-brisbane-heat-1629467915/1/playlist.m3u8
+https://lb2.strmd.top/secure/tRDjnPLeZdhlapAfHITVMdEuDkgMmWqp/alpha/stream/rugby-africa-women-s-sevens-2025-day-1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="India vs South Africa" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",India vs South Africa
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/OSnUngiIWOBAzusnErBGpSuYiNFmTlNk/alpha/stream/india-vs-south-africa/1/playlist.m3u8
+https://lb3.strmd.top/secure/jppMsKusKNQEFVnuVuokckKgjguJHBQJ/alpha/stream/india-vs-south-africa/1/playlist.m3u8
