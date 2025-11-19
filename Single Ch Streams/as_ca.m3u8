@@ -1,4 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:4
-#EXT-X-STREAM-INF:
+#EXTINF:0,
+#EXTVLCOPT:network-caching=1000
 http://cord-cutter.net:8080/Rolanda23/8615TH2510/11644
