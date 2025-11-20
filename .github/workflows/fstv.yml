@@ -1,4 +1,4 @@
-name: ▶️ Generate FSTV Playlist
+name: 🔄 Generate FSTV Playlist 🎯
 
 on:
   schedule:
@@ -49,7 +49,7 @@ jobs:
             exit 0
           fi
 
-          git commit -m "📺 Update FSTV $(date -u +'%a %b %d %T UTC %Y')"
+          git commit -m "🔁 Update FSTV playlist $(date -u +'%a %b %d %T UTC %Y')"
 
           # Random short delay to reduce collision risk
           sleep $((RANDOM % 10 + 5))
