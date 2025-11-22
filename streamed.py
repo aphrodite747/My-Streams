@@ -72,7 +72,7 @@ def get_all_matches():
     for ep in endpoints:
         try:
             log.info(f"📡 Fetching {ep} matches...")
-            res = requests.get(f"https://streami.su/api/matches/{ep}", timeout=10)
+            res = requests.get(f"https://v2.streameast.sg/api/matches/{ep}", timeout=10)
             res.raise_for_status()
             data = res.json()
             log.info(f"✅ {ep}: {len(data)} matches")
