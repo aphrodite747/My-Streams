@@ -60,7 +60,11 @@ async def scrape_tv_urls():
 
             for quality in ["SD", "HD"]:
                 stream_url = None
-                new_page = await context.new_page()
+                try:
+                    new_page = await context.new_page()
+                except Exception as e:
+                    print(f"❌ Error creating new page for {full_url}: {e}")
+                    continue
 
                 async def handle_response(response):
                     nonlocal stream_url
@@ -69,7 +73,12 @@ async def scrape_tv_urls():
                         stream_url = real
 
                 new_page.on("response", handle_response)
-                await new_page.goto(full_url)
+                try:
+                    await new_page.goto(full_url, wait_until="domcontentloaded", timeout=60000)
+                except Exception as e:
+                    print(f"Timeout or navigation error at {full_url}: {e}")
+                    await new_page.close()
+                    continue
 
                 try:
                     await new_page.get_by_text(f"Load {quality} Stream", exact=True).click(timeout=5000)
@@ -95,9 +104,10 @@ async def scrape_section_urls(context, section_path, group_name):
 
     try:
         page = await context.new_page()
-        await page.goto(section_url)
+        await page.goto(section_url, wait_until="domcontentloaded", timeout=60000)
         links = await page.locator("ol.list-group a").all()
-    except:
+    except Exception as e:
+        print(f"Error loading section page {section_url}: {e}")
         return urls
 
     if not links:
@@ -128,7 +138,8 @@ async def scrape_section_urls(context, section_path, group_name):
             stream_url = None
             try:
                 new_page = await context.new_page()
-            except:
+            except Exception as e:
+                print(f"❌ Error creating new page for {full_url}: {e}")
                 continue
 
             async def handle_response(response):
@@ -139,7 +150,12 @@ async def scrape_section_urls(context, section_path, group_name):
 
             new_page.on("response", handle_response)
             try:
-                await new_page.goto(full_url)
+                await new_page.goto(full_url, wait_until="domcontentloaded", timeout=60000)
+            except Exception as e:
+                print(f"Timeout or navigation error at {full_url}: {e}")
+                await new_page.close()
+                continue
+            try:
                 await new_page.get_by_text(f"Load {quality} Stream", exact=True).click(timeout=5000)
                 await asyncio.sleep(4)
             except:
@@ -164,7 +180,8 @@ async def scrape_all_sports_sections():
                 section_urls = await scrape_section_urls(context, section_path, group_name)
                 if section_urls:
                     all_urls.extend(section_urls)
-            except:
+            except Exception as e:
+                print(f"Exception for {section_path}: {e}")
                 continue
 
         await browser.close()
