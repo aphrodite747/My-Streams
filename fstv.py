@@ -201,7 +201,7 @@ async def fetch_fstv_channels():
                     
                     # 1. Navigate to the page
                     await page.goto(url, timeout=120000, wait_until="domcontentloaded")
-                    await page.wait_for_selector(".item-channel", timeout=30000)
+                    await page.wait_for_selector(".item-channel", timeout=60000)
                     all_elements = await page.query_selector_all(".item-channel")
                     
                     if not all_elements:
@@ -355,3 +355,4 @@ if __name__ == "__main__":
         err_print(f"❌ ERROR: Could not write playlist to file {OUTPUT_FILENAME}: {e}")
 
         sys.exit(1)
+
