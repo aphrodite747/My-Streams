@@ -130,7 +130,6 @@ CHANNEL_MAPPING = {
 # --- End Channel Mapping ---
 
 MIRRORS = [
-    "https://fstv.online/live-tv.html?timezone=America%2FDenver",
     "https://fstv.space/live-tv.html?timezone=America%2FDenver",
     "https://fstv.zip/live-tv.html?timezone=America%2FDenver"
 ]
@@ -355,4 +354,5 @@ if __name__ == "__main__":
         err_print(f"❌ ERROR: Could not write playlist to file {OUTPUT_FILENAME}: {e}")
 
         sys.exit(1)
+
 
