@@ -253,8 +253,8 @@ async def fetch_fstv_channels():
                                 # The best approach is often to reload the page to reset the context.
                                 if attempt < MAX_RETRIES:
                                     err_print(f"🔄 Reloading page to reset context before next attempt...")
-                                    await page.goto(url, timeout=30000, wait_until="domcontentloaded")
-                                    await page.wait_for_selector(".item-channel", timeout=30000)
+                                    await page.goto(url, timeout=60000, wait_until="domcontentloaded")
+                                    await page.wait_for_selector(".item-channel", timeout=60000)
                                     # Re-query elements and get the element for the current index 'i'
                                     all_elements = await page.query_selector_all(".item-channel")
                                     if i < len(all_elements):
@@ -353,4 +353,5 @@ if __name__ == "__main__":
         err_print(f"💾 Playlist successfully saved to {OUTPUT_FILENAME}")
     except IOError as e:
         err_print(f"❌ ERROR: Could not write playlist to file {OUTPUT_FILENAME}: {e}")
+
         sys.exit(1)
