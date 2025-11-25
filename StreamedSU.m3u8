@@ -1,121 +1,231 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Liberty vs Towson" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Liberty vs Towson
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/cIKNSXQWaTWutNKlVoWmYlbgskxhPJNd/bravo/stream/1764090000000-towson-vs-liberty/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Ryti Kladno vs Litvinov" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjj0AJiA19YIbppCIYufSAOmQKAhSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title="StreamedSU - Hockey",Ryti Kladno vs Litvinov
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/pEsiTUElKuDvoQPbPLMukjSBwoBsFUul/bravo/stream/1764090000000-kladno-hc-litvinov/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Stavanger Oilers vs Stjernen" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLEAGYABNgSOiG4gNIFCD56jICCEQg9BCkz4ouYMvCLzRTprTAuxoiCA.webp" group-title="StreamedSU - Hockey",Stavanger Oilers vs Stjernen
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/dXTiGhFDqhNkCaBFumdjpqZqSsjxdomA/bravo/stream/1764090000000-stavanger-oilers-stjernen/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Dynamo Pardubice vs Sparta Prague" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5g+uEABMQZECG4h1BlCBggI+kCZMTCMYEz4ouYMvCLzRzprTCuxohBAA.webp" group-title="StreamedSU - Hockey",Dynamo Pardubice vs Sparta Prague
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/PUgtvSXWRtWmahUizjjVYlAilvggWyuB/bravo/stream/1764090000000-dynamo-pardubice-sparta-prague/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Kometa Brno vs Olomouc" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyopYYUbQAmIbiB2IYufSFOnE8AhSZ8UXDeXrzRdprTAaxoiEA.webp" group-title="StreamedSU - Hockey",Kometa Brno vs Olomouc
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/TKKlgiTleZkJCKvihqPnxrPaScZBCLDn/bravo/stream/1764090000000-hc-kometa-brno-hc-olomouc/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Mountfield HK vs Mlad Boleslav" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCI4UOEnYhuIACaqQMXPpBmUIC5cIxgTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Hockey",Mountfield HK vs Mlad Boleslav
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/NlTrhvuUiJBYRyfglWYCzBzoJfDelctE/bravo/stream/1764090000000-mountfield-hk-mlada-boleslav/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Sorrento vs Crotone" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphIgBEEBpSgQ3EABM1RnKr64QiEAQpM+2tmDLwi80dqa0wjsaIhA.webp" group-title="StreamedSU - Football",Sorrento vs Crotone
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/KOdsnOUElopYgiwlaoVBmftVstYuIOnY/bravo/stream/1764090000000-sorrento-crotone/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Slovan Liberec vs Ceske Budejovice" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Hockey",Slovan Liberec vs Ceske Budejovice
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/JIRswLqJbqJvArMiLczlEulmSNRWIbqL/bravo/stream/1764090000000-slovan-liberec-ceske-budejovice/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Alcorn State (W) vs Providence (W)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Alcorn State (W) vs Providence (W)
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/VfgsHBGBkYSMTzxMqLqfxjduDdpiXhPo/bravo/stream/1764090000000-alcorn-state-w-providence-w-/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="App State (W) vs Norfolk State (W)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",App State (W) vs Norfolk State (W)
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/gediSJfSduiMXxQSBtdmbKzvGXXgitBR/bravo/stream/1764090000000-app-state-w-norfolk-state-w-/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Georgia State (W) vs Samford (W)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Georgia State (W) vs Samford (W)
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/aJZrQROShenWnLkkKUoFsWswOWXmvJHs/bravo/stream/1764090000000-georgia-state-w-samford-w-/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Northern Kentucky (W) vs Stetson (W)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Northern Kentucky (W) vs Stetson (W)
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/kQbsYlfmjDTmpgcLNpZxbJfWeQKoydsE/bravo/stream/1764090000000-northern-kentucky-w-stetson-w-/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="European Curling Championships: Lohja, Round Robin Women, Germany - Italy" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",European Curling Championships: Lohja, Round Robin Women, Germany - Italy
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/nxmqlwLPNPItdHvwlayQNvsmGBqASKDd/charlie/stream/lohja-round-robin-women-germany-italy-1629471226/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Michigan State Spartans vs East Carolina Pirates" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Michigan State Spartans vs East Carolina Pirates
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/ihqGvDvmlFGXrIyhMSNhfPvnNewQHLxY/delta/stream/live_ncaa_michigan-state-east-carolina-live-streaming-424881072/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="North Alabama Lions vs Martin Methodist Red Hawks" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",North Alabama Lions vs Martin Methodist Red Hawks
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/zcQwaCQKaAbwzMXsQDosVwEhHBtWbSIz/delta/stream/live_ncaa_north-alabama-lions-martin-methodist-red-hawks-live-streaming-424882800/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Rutgers Scarlet Knights vs Notre Dame Fighting Irish" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Rutgers Scarlet Knights vs Notre Dame Fighting Irish
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/FLYjtjZdeDgJRXsBuiHCrZNmEWBkzSLS/delta/stream/live_ncaa_rutgers-notre-dame-live-streaming-424884096/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="AFC Ajax vs Benfica" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",AFC Ajax vs Benfica
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/gRdoCkNyWgAtjevjMAAdfXsJfgWWMBct/delta/stream/live_uefa-champions-league_ajax-benfica-live-streaming-439266240/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Galatasaray vs Royale Union Saint-Gilloise" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Galatasaray vs Royale Union Saint-Gilloise
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/gdMduOddWmOqeXkwQeNxliDNEOtOSvVn/delta/stream/live_uefa-champions-league_galatasaray-usg-live-streaming-439266672/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Spartak Moscow vs Ak Bars Kazan" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmzMKIEAGBCG4gVIFCESHEfPbhAwCFJnxRcN5evNGOmtMBrGiIQA.webp" group-title="StreamedSU - Hockey",Spartak Moscow vs Ak Bars Kazan
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/quFWTaBDRecYvuzTrNuheQvohujWLifr/bravo/stream/1764088200000-spartak-moscow-ak-bars-kazan/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Assat vs Kiekko-Espoo" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiScBITgAYQ3EHxAQDuEDB0gUekwQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Hockey",Assat vs Kiekko-Espoo
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/XlZbRRjoeBAKVpFmdIyHqHvCUJtwqiol/bravo/stream/1764088200000-assat-kiekko-espoo/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Ilves vs Pelicans" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhygATELUKr2IbiHV6S+kHxAxjevgQpMrXMGXhF5olMCa0wDsaIhA.webp" group-title="StreamedSU - Hockey",Ilves vs Pelicans
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/MVkbOJRtzXVcwUQaBzXmZDWcVrzCLsfR/bravo/stream/1764088200000-ilves-pelicans/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Manitoba Moose vs Belleville Senators" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAhmYJNE0wQ3ECVW4je1Xr6qCFJnxRcwZeEXmjbTWmHtjREIA.webp" group-title="StreamedSU - Hockey",Manitoba Moose vs Belleville Senators
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/NvZcArZarmQyMAYBTAnRuHpUJiUwpZQL/bravo/stream/1764088200000-manitoba-moose-belleville-senators/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="HC Sochi vs HC Lada Togliatti" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulzMQAExDxsIXdxB8tICCBIgYukPs2MKTPii5gy2+vNGOmtMM7GiIQA.webp" group-title="StreamedSU - Hockey",HC Sochi vs HC Lada Togliatti
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/LyMMiOvbbWBfQufohOOIJpqpttsLraCw/bravo/stream/1764088200000-hc-sochi-hc-lada/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Zilina vs Slovan Bratislava" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Hockey",Zilina vs Slovan Bratislava
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/ChBOtHXdbnvJfuHBsxdbPRSSDnQCuilp/bravo/stream/1764088200000-zilina-slovan-bratislava/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Bethune-Cookman vs Stony Brook" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Bethune-Cookman vs Stony Brook
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/wTAZZpGSEtjTqOAhtXFGLYxuIdlpRPKr/bravo/stream/1764086400000-stony-brook-vs-bethune-cookman/1/playlist.m3u8
+https://lb6.strmd.top/secure/VOJJQwvOjLYdypKAnKVNWydgHrJMBYMf/bravo/stream/1764086400000-stony-brook-vs-bethune-cookman/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Dubai Basketball vs Paris Basketball" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAow3EDDogAJmBAgNfXLtMGNEEMZ0EKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Basketball",Dubai Basketball vs Paris Basketball
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/DoglfxoTIrYCuGNsKsPhhkJrBIYuBNWm/bravo/stream/1764086400000-dubai-paris/1/playlist.m3u8
+https://lb8.strmd.top/secure/BBFzJSBqtfPyMnQxSIYqftDBAxeJBTPM/bravo/stream/1764086400000-dubai-paris/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Sepahan vs Al-Hussein Irbid" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxTAkDMH01sQ3EHxAkQiHDBAR9IFFYIUmfVWzBl4ReaNVNaYZ2NEQgA.webp" group-title="StreamedSU - Football",Sepahan vs Al-Hussein Irbid
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/jxIbyqpUAADGCRjdHMnUsyRGsTnvUqdY/bravo/stream/1764086400000-sepahan-al-hussein/1/playlist.m3u8
+https://lb7.strmd.top/secure/jYZCcBWptHeVCabnIKgXQmJUAOxcgKnR/bravo/stream/1764086400000-sepahan-al-hussein/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Al Wahda vs Al-Sadd" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC8cIDbBARVIEiBQaDRmEcQoCFJnxRcwZeEXmjbTWmHtjREIA.webp" group-title="StreamedSU - Football",Al Wahda vs Al-Sadd
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/gQXAFGkfvIJqfWcBbQBRzzRiIToQgoXF/bravo/stream/1764086400000-al-wahda-al-sadd/1/playlist.m3u8
+https://lb1.strmd.top/secure/VYXKeCtdmVPXflaKlElnKrCQACCXEVSE/bravo/stream/1764086400000-al-wahda-al-sadd/1/playlist.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Niznekamsk vs Avangard Omsk" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Hockey",Niznekamsk vs Avangard Omsk
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/tfBNidmYoIzFfTzNimzjLJcPxbgqhDOv/bravo/stream/1764086400000-niznekamsk-avangard-omsk/1/playlist.m3u8
+https://lb3.strmd.top/secure/AxohmIOYiEipCREJKahQnKXFniSPPvcO/bravo/stream/1764086400000-niznekamsk-avangard-omsk/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="WTA Buenos Aires vs Center Court Sherif - Riera" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",WTA Buenos Aires vs Center Court Sherif - Riera
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/fcSVzeEzjSdCYPdGvLvOqyjHgCQIuooP/bravo/stream/1764086400000-wta-buenos-aires-center-court-sherif-riera/1/playlist.m3u8
+https://lb3.strmd.top/secure/nxwODVfjRjeDjSFLMzBcwLKlHPqQmiLC/bravo/stream/1764086400000-wta-buenos-aires-center-court-sherif-riera/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="WTA Buenos Aires vs Court 3 Sorribes Tormo - Herrero Linana" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",WTA Buenos Aires vs Court 3 Sorribes Tormo - Herrero Linana
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/NuAmjrnMjAVElAUaQMPQfnwofGGrUeGp/bravo/stream/1764086400000-wta-buenos-aires-court-3-sorribes-tormo-herrero-linana/1/playlist.m3u8
+https://lb8.strmd.top/secure/EPJOxHnMIUwvewFUtdTyLOFZYVhvkOeQ/bravo/stream/1764086400000-wta-buenos-aires-court-3-sorribes-tormo-herrero-linana/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Boston College (W) vs Merrimack (W)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Boston College (W) vs Merrimack (W)
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/TwdPiqKLaorYPrtYrfvdjJUSpyraUJJF/bravo/stream/1764086400000-boston-college-w-merrimack-w-/1/playlist.m3u8
+https://lb6.strmd.top/secure/WtbJkckodFgKyLIqVbRCnGussNGKykhl/bravo/stream/1764086400000-boston-college-w-merrimack-w-/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Bucknell (W) vs Le Moyne (W)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Bucknell (W) vs Le Moyne (W)
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/pNfIZNZOfsArOxrcsEFamiSwVWKgnIAq/bravo/stream/1764086400000-bucknell-w-le-moyne-w-/1/playlist.m3u8
+https://lb9.strmd.top/secure/AmDIghBXlHpazhKBHCihNbQxfGCHWLLg/bravo/stream/1764086400000-bucknell-w-le-moyne-w-/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Fairfield (W) vs New Haven (W)" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Fairfield (W) vs New Haven (W)
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/qDOzTBOuDCdwNemNWGLkMXrKVEbvkrQU/bravo/stream/1764086400000-fairfield-w-new-haven-w-/1/playlist.m3u8
+https://lb3.strmd.top/secure/gRTXCQRjnKmyjWPxzSWIjrNsAfPXPSyJ/bravo/stream/1764086400000-fairfield-w-new-haven-w-/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="AFC Champions League: Al Wahda FC vs Al Sadd" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQHECexsCMYHia0qYFgh1chta+TD3gKoRCA.webp" group-title="StreamedSU - Football",AFC Champions League: Al Wahda FC vs Al Sadd
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/tmqkUjZUefhhgZDBCPZPQIQHlbBxotWj/charlie/stream/al-wahda-fc-vs-al-sadd-1438746/1/playlist.m3u8
+https://lb1.strmd.top/secure/NZypZdDEiEaLRMxsbEdbLWrLzxSFGfFj/charlie/stream/al-wahda-fc-vs-al-sadd-1438746/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Abu Dhabi T10 League: Gladiators vs Stallions" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="StreamedSU - Cricket",Abu Dhabi T10 League: Gladiators vs Stallions
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/ixicggpjxQIchvvCfGsitTgMUUUCqtph/charlie/stream/gladiators-vs-stallions-1629470860/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Liberty Flames vs Towson State Tigers" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Liberty Flames vs Towson State Tigers
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/HfqvpDfqtMqIIgZsVwTdDpuGjAoubsWl/delta/stream/live_ncaa_liberty-towson-live-streaming-468033120/1/playlist.m3u8
+https://lb8.strmd.top/secure/iXpKkSaWWNATrrqZNwjzukIhemlTrViW/charlie/stream/gladiators-vs-stallions-1629470860/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Torpedo Moscow vs Baltika Kaliningrad" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgEpKzBdxBaAJiH2I+IRPq0pjBCkz5q2YMvCLzRaprTD2xoiEA.webp" group-title="StreamedSU - Football",Torpedo Moscow vs Baltika Kaliningrad
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/NKJDaDZiySCUVzZcEqmJClBdjXPXKaNO/bravo/stream/1764082800000-torpedo-moscow-baltika/1/playlist.m3u8
+https://lb3.strmd.top/secure/yNslMWxVOiZrNmBGdLGeHuVoZwpHxTYS/bravo/stream/1764082800000-torpedo-moscow-baltika/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Poli Iasi vs Chindia Targoviste" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Poli Iasi vs Chindia Targoviste
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/cvUwQKHFsMeMRVoSyzYPquAVDpzJmNSY/bravo/stream/1764082800000-poli-iasi-chindia-targoviste/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Dortmund U19 vs Villarreal U19" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIQsZwgO-GMDxNaVMCwQ6uQ2jfJgHwFUIhA.webp" group-title="StreamedSU - Football",Dortmund U19 vs Villarreal U19
+https://lb2.strmd.top/secure/tAtnmDYhsDeTjJKnnXzZcIMoafWEtvXv/bravo/stream/1764082800000-poli-iasi-chindia-targoviste/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Dortmund U19 vs Villarreal U19" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Dortmund U19 vs Villarreal U19
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/rYrBOJTdSryHPYEVpBehgtzUSHvTqLgQ/bravo/stream/1764082800000-dortmund-u19-villarreal-u19/1/playlist.m3u8
+https://lb5.strmd.top/secure/UhQwCXsvvDYCTPMfrqXptjSRRwpjwPBj/bravo/stream/1764082800000-dortmund-u19-villarreal-u19/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Zilina vs Skalica" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Zilina vs Skalica
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/DwytBEkjITillzXCXPOXXiHMOJrKCcjN/bravo/stream/1764081000000-zilina-skalica/1/playlist.m3u8
+https://lb1.strmd.top/secure/yTnMygfObSOKHVtxbqwSUyQnbnQLNHrO/bravo/stream/1764081000000-zilina-skalica/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="WTA Buenos Aires vs Court 3 Monnet - Samson" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",WTA Buenos Aires vs Court 3 Monnet - Samson
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/kDhgDOxACIGTEvnSeAQnMYShRRQwORXO/bravo/stream/1764081000000-wta-buenos-aires-court-3-monnet-samson/1/playlist.m3u8
+https://lb4.strmd.top/secure/NelewUKFujNfMxfZWsPmfxQlPJarxKrc/bravo/stream/1764081000000-wta-buenos-aires-court-3-monnet-samson/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="UK Championship Qualifier vs Table 1" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Billiards",UK Championship Qualifier vs Table 1
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/dcsOnHzgrWBFNAOGsNfLBZxCbaFAunSD/bravo/stream/1764077400000-uk-championship-qualifier-table-1/1/playlist.m3u8
+https://lb9.strmd.top/secure/jiyvYHSPYdxJzRIOoHVsNkAaQMNBBowC/bravo/stream/1764077400000-uk-championship-qualifier-table-1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="UK Championship Qualifier vs Table 2" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Billiards",UK Championship Qualifier vs Table 2
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/zCeDFrDCqOtuALSjKcZWBDxLWTgbFerZ/bravo/stream/1764077400000-uk-championship-qualifier-table-2/1/playlist.m3u8
+https://lb4.strmd.top/secure/gzuTxQKkzfZWHrvNxOchxQWPHuEMEOpM/bravo/stream/1764077400000-uk-championship-qualifier-table-2/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="UK Championship Qualifier vs Table 3" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Billiards",UK Championship Qualifier vs Table 3
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/kAtuMqYXSFAyCnVcNhXOhCkxyioemUYU/bravo/stream/1764077400000-uk-championship-qualifier-table-3/1/playlist.m3u8
+https://lb9.strmd.top/secure/cttpdROMyEtQLLEaMcWGIssYnHCixlGj/bravo/stream/1764077400000-uk-championship-qualifier-table-3/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="UK Championship Qualifier vs Table 4" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Billiards",UK Championship Qualifier vs Table 4
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/rvXUyZaUWhfcokaMFPTbWuJRQfIeTqwE/bravo/stream/1764077400000-uk-championship-qualifier-table-4/1/playlist.m3u8
+https://lb10.strmd.top/secure/bImupeOgroBwIJoOiNBUvXLMQcfuiNQV/bravo/stream/1764077400000-uk-championship-qualifier-table-4/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Chelsea Youth vs Barcelona Youth" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCj8uYEk24Q3EABMQEHYkQpVIc8sIxgTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Football",Chelsea Youth vs Barcelona Youth
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/EisqDnkrzFKSSQWyYEASOoqEJOufrtgK/bravo/stream/1764075600000-chelsea-u19-barcelona-u19/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Sri Lanka and Zimbabwe tour of Pakistan: Sri Lanka vs Zimbabwe" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIFiA6n+MYHia0qYFgh1chta+TD3gKoRCA.webp" group-title="StreamedSU - Cricket",Sri Lanka and Zimbabwe tour of Pakistan: Sri Lanka vs Zimbabwe
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/qExozuVzdIxmllyKLsQqPeWfZFuLDkPC/charlie/stream/sri-lanka-vs-zimbabwe-1629470568/1/playlist.m3u8
+https://lb4.strmd.top/secure/nGmNqVjeZoAjaiAwGaXiSNiMgkniOvlP/bravo/stream/1764075600000-chelsea-u19-barcelona-u19/1/playlist.m3u8
